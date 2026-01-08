@@ -15,17 +15,21 @@
 - Monitores de Áudio Edifier M60 (Branco) (tags: #audio #monitores #bluetooth #hires #desktop)
 - Smart TV Portátil LG StanbyME 27" (tags: #tv #lg #touch #portatil #nfc)
 - Óculos de Áudio JBL Soundgear Frames (tags: #jbl #audio #oculos #wearable #opensound)
+- Xiaomi Mi Box (TV Box 4K) (tags: #xiaomi #tvbox #4k #streaming #androidtv)
 
 ## Computadores e Perifericos
 - Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever) (tags: #teclado #mecanico #retro #bluetooth #usb-c)
 - Mesa Digitalizadora Huion Inspiroy (tags: #tablet #desenho #caneta #criacao #usb)
 - XP-Pen Wireless Shortcut Remote (Atalhos) (tags: #atalhos #bluetooth #criacao #tablet #dial)
 - Kindle Oasis (E-reader Premium) (tags: #kindle #ereader #leitura #telailuminada #waterproof)
+- Suporte de Notebook Multiuso LH Móveis (Portátil/Dobrável) (tags: #suporte #notebook #portatil #dobravel #ergonomia)
 
 ## Foto e Video
 - Estabilizador Gimbal Hohem iSteady M6 (Kit com Sensor AI) (tags: #gimbal #smartphone #video #estabilizacao #ai)
 - Tripé Profissional 1,80m + Suporte Ulanzi ST-06S (tags: #tripe #foto #video #suporte #ulanzi)
 - Ring Light Profissional com Suporte para Celular (tags: #ringlight #foto #video #iluminacao #celular)
+- Tripé Flexível Articulado (Estilo GorillaPod) (tags: #tripe #flexivel #articulado #foto #video)
+- Tela de Monitor Selfie Vlog SmallRig (tags: #monitor #selfie #vlog #smallrig #camera)
 
 ## Iluminacao e Setup
 - Light Bar para Monitor Baseus i-wok 2 (tags: #iluminacao #monitor #usb-c #setup #baseus)
@@ -80,6 +84,9 @@
 - Boné de LED Capellux (Tratamento Capilar) (tags: #capilar #led #fototerapia #beleza #tratamento)
 - Kit de Beleza e Bem-Estar (Lotes) (tags: #skincare #bemestar #oleos #aromaterapia #kit)
 - Secador de Cabelo Compacto (Vermelho) (tags: #secador #beleza #cabelo #compacto #vermelho)
+- Máscara de Beleza LED de 7 cores (tags: #mascara #led #beleza #tratamento #facial)
+- Kit de Ventosaterapia Zenai Pro Series (tags: #ventosaterapia #saude #bemestar #kit #relaxamento)
+- Máquina de Terapia Digital TENS/EMS (tags: #tens #ems #terapia #saude #relaxamento)
 - Caneta Jato de Plasma (Removedor de Manchas e Verrugas) (tags: #beleza #saude #tratamento #plasma #estetica)
 
 ## Esportes e Fitness
@@ -88,6 +95,7 @@
 - Esteira Elétrica Residencial Plana (Até 12km/h) (tags: #esteira #cardio #treino #compacta #homegym)
 - Kit de Treino 4 em 1 Domyos (Roda Abdominal e Apoio de Flexão) (tags: #domyos #treino #core #flexao #acessorio)
 - Jogo de Dardos Profissional (tags: #dardos #jogo #esporte #alvo #laser)
+- Barra de Porta Telescópica (Ajustável) (tags: #barra #porta #treino #tracao #fitness)
 
 ## Colecionaveis e Hobby
 - Fun-Tech Lab 1:64 Windsible Desktop Wind Tunnel (tags: #colecionavel #1_64 #hotwheels #aerodinamica #display)
@@ -103,11 +111,13 @@
 - Balança Digital de Alta Precisão Bolida (tags: #balanca #precisao #0_01g #medicao #compacta)
 - Balança Digital Profissional Modus Pro-50 (tags: #balanca #precisao #0_001g #laboratorio #joias)
 - Microscópio Eletrônico Digital (tags: #microscopio #usb #ampliacao #led #inspecao)
+- Termômetro e Higrômetro Digital Compacto (tags: #termometro #higrometro #medicao #digital #compacto)
 
 ## Acessorios Mobile e Energia
 - Power Bank 22.5W (Com Cabos Integrados) (tags: #powerbank #carregamento #usb-c #lightning #portatil)
 - Carregador Sem Fio Dobrável FAM (tags: #carregador #wireless #qi #dobravel #suporte)
 - Carregador de Baterias Nitecore Digicharger D4 (tags: #carregador #baterias #nitecore #lcd #inteligente)
+- Régua de Energia com USB (3 Tomadas + 3 USB) (tags: #regua #energia #usb #tomadas #eletrica)
 
 ## Wearables e Relogios
 - Smartwatch Huawei Watch GT 5 (46mm) (tags: #smartwatch #huawei #wearable #saude #esportes)

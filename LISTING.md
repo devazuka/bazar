@@ -894,6 +894,24 @@ Preço original: ~ R$ 180 (Tripé + Suporte)
 
 ---
 
+### Tripé Flexível Articulado (Estilo GorillaPod)
+![Photo 1](./photos/P_20260108_181658.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Pernas flexíveis e emborrachadas que se moldam a qualquer superfície ou objeto (galhos, grades, etc).
+  - Inclui suporte universal para smartphones.
+  - Cabeça de esfera (ball head) com rotação 360° e trava.
+  - Nível de bolha integrado para alinhamento preciso.
+  - Compacto e leve, ideal para levar em viagens e vlogs.
+
+Preço original: ~ R$ 60
+
+**À Venda por:** **~R$ 35**
+
+---
+
 ### Cubo de LED Infinito (Infinity 4)
 ![Photo 1](./photos/P_20260108_104915.jpg)
 
@@ -1022,6 +1040,24 @@ Preço original: R$ 2.299,00
 Preço original: ~ R$ 150
 
 **À Venda por:** **~R$ 90**
+
+---
+
+### Barra de Porta Telescópica (Ajustável)
+![Photo 1](./photos/P_20260108_163444.jpg)
+
+**Modelo:** `Barra de Porta`
+**Estado:** Excelente
+
+#### Destaques:
+  - Ajustável para diferentes larguras de portas (aprox. 62cm a 100cm).
+  - Suporta até 100kg (dependendo da instalação e batente).
+  - Manoplas em espuma de alta densidade para pegada confortável e segura.
+  - Sistema de fixação por pressão, fácil de instalar e remover.
+
+Preço original: ~ R$ 80
+
+**À Venda por:** **~R$ 50**
 
 ---
 
@@ -1289,6 +1325,25 @@ Preço original: ~ R$ 5.100 (Combo)
 Preço original: ~ R$ 450
 
 **À Venda por:** **~R$ 280**
+
+---
+
+### Suporte de Notebook Multiuso LH Móveis (Portátil/Dobrável)
+![Photo 1](./photos/P_20260108_163523.jpg)
+![Photo 2](./photos/P_20260108_163555.jpg)
+
+**Modelo:** `Mesa Multiuso`
+**Estado:** Excelente
+
+#### Destaques:
+  - Design ergonômico e portátil, ideal para usar notebook no sofá, cama ou mesa.
+  - Pés dobráveis em metal de alta resistência, facilitando o transporte e armazenamento.
+  - Tampo com acabamento premium em preto fosco.
+  - Versátil: pode ser utilizado como suporte para notebook, mesa de estudos ou bandeja.
+
+Preço original: ~ R$ 70
+
+**À Venda por:** **~R$ 40**
 
 ---
 
@@ -1653,6 +1708,131 @@ Preço original: ~ R$ 130
 Preço original: ~ R$ 120
 
 **À Venda por:** **~R$ 70**
+
+---
+
+### Máscara de Beleza LED de 7 cores
+![Photo 1](./photos/P_20260108_162553.jpg)
+
+**Modelo:** `AF07`
+**Estado:** Excelente (Na caixa)
+
+#### Destaques:
+  - Terapia de luz com 7 cores diferentes para diversos tratamentos de pele.
+  - Operação simplificada com apenas um botão.
+  - Design leve e ergonômico.
+  - Inclui cabo de alimentação/carregamento.
+
+Preço original: ~ R$ 140
+
+**À Venda por:** **~R$ 90**
+
+---
+
+### Kit de Ventosaterapia Zenai Pro Series
+![Photo 1](./photos/P_20260108_162615.jpg)
+
+**Modelo:** `Pro Series`
+**Estado:** Excelente (Na caixa)
+
+#### Destaques:
+  - Kit completo com 18 copos de diferentes tamanhos.
+  - Bomba de sucção de alta performance inclusa.
+  - Ideal para tratamentos de ventosaterapia e massoterapia.
+  - Maleta para transporte e organização.
+
+**Links:** [Mercado Livre](https://lista.mercadolivre.com.br/kit-ventosa-zenai)
+
+Preço original: R$ 189,90
+
+**À Venda por:** **~R$ 120**
+
+---
+
+### Máquina de Terapia Digital TENS/EMS
+![Photo 1](./photos/P_20260108_162558.jpg)
+
+**Estado:** Excelente (Na caixa)
+
+#### Destaques:
+  - Dispositivo de eletroestimulação para alívio de dores musculares.
+  - Diversos modos de massagem: Batida, Fricção, Vibração e Pressão.
+  - Intensidade e tempo ajustáveis.
+  - Portátil e fácil de usar em diferentes partes do corpo (ombro, cintura, pernas, etc).
+
+Preço original: ~ R$ 60
+
+**À Venda por:** **~R$ 35**
+
+---
+
+### Tela de Monitor Selfie Vlog SmallRig
+![Photo 1](./photos/P_20260108_181650.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Permite usar a câmera traseira do celular para vlogs e selfies com visualização em tempo real.
+  - Suporte magnético compatível com MagSafe.
+  - Inclui controle remoto sem fio para disparos.
+  - Design compacto e leve.
+
+**Links:** [Amazon](https://www.amazon.com.br/dp/B0F1YF2JHZ)
+
+Preço original: R$ 391,38
+
+**À Venda por:** **~R$ 250**
+
+---
+
+### Xiaomi Mi Box (TV Box 4K)
+![Photo 1](./photos/P_20260108_181614.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Transforma qualquer TV em Smart TV com sistema Android TV.
+  - Resolução 4K HDR para alta qualidade de imagem.
+  - Controle remoto com comando de voz (Google Assistant).
+  - Acesso a Netflix, YouTube, Prime Video e milhares de apps.
+
+Preço original: ~ R$ 350
+
+**À Venda por:** **~R$ 220**
+
+---
+
+### Régua de Energia com USB (3 Tomadas + 3 USB)
+![Photo 1](./photos/P_20260108_181715.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - 3 tomadas padrão brasileiro.
+  - 3 portas USB (incluindo uma USB-C) para carregamento direto.
+  - Botão liga/desliga central com proteção.
+  - Design compacto e robusto.
+
+Preço original: R$ 69,99
+
+**À Venda por:** **~R$ 45**
+
+---
+
+### Termômetro e Higrômetro Digital Compacto
+![Photo 1](./photos/P_20260108_181532.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Monitoramento em tempo real de temperatura e umidade.
+  - Display LCD de fácil leitura com indicadores de conforto (Dry/Comfort/Wet).
+  - Design minimalista em branco.
+  - Alimentação por bateria de longa duração.
+
+Preço original: ~ R$ 30
+
+**À Venda por:** **~R$ 20**
 
 ---
 
