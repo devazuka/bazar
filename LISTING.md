@@ -670,7 +670,7 @@ Preço original: ~ R$ 6.000 (Na época)
 
 **Links:** [Site do Fabricante](https://www.apple.com/br/iphone/)
 
-Preço original: ~ R$ 9.000+
+Preço original: R$ 14.000
 
 **À Venda por:** **~R$ 9.600**
 
@@ -849,6 +849,68 @@ Preço original: ~ R$ 1.500
 Preço original: ~ R$ 650
 
 **À Venda por:** **~R$ 420**
+
+---
+
+### Fritadeira Elétrica Air Fryer Oven 12L Electrolux (Edição Rita Lobo)
+![Photo 1](./photos/P_20260108_104815.jpg)
+
+**Modelo:** `EAF90 (Assistant Touch)`
+**Estado:** Excelente
+
+#### Destaques:
+  - Capacidade de 12 litros: Permite preparar grandes porções ou diferentes alimentos simultaneamente.
+  - Funções 5 em 1: Frita com ar, assa, desidrata, reaquece e gratina.
+  - Painel Digital Assistant Touch: 9 receitas pré-programadas e controle preciso de tempo e temperatura.
+  - Coleção Rita Lobo: Acabamento sofisticado e design pensado para a melhor experiência culinária.
+
+**Links:** [Site do Fabricante](https://www.electrolux.com.br/fritadeira-eletrica-air-fryer-oven-12l-electrolux-por-rita-lobo-grafite-eaf90/p)
+
+Preço original: ~ R$ 1.100
+
+**À Venda por:** **~R$ 750**
+
+---
+
+### Estabilizador Gimbal Hohem iSteady M6 (Kit com Sensor AI)
+![Photo 1](./photos/P_20260108_104833.jpg)
+![Photo 2](./photos/P_20260108_104838.jpg)
+
+**Modelo:** `iSteady M6`
+**Estado:** Excelente (Na caixa/estojo)
+
+#### Destaques:
+  - Estabilizador profissional de 3 eixos para smartphones.
+  - Inclui luz de preenchimento magnética com sensor de rastreamento por IA integrado.
+  - Tela OLED de 0,9 polegadas para visualização de modos e bateria.
+  - Rotação 360° (Inception mode) e diversos modos de disparo criativos.
+  - Suporta smartphones pesados (até 400g) e bateria com até 18h de autonomia.
+
+**Links:** [Amazon](https://www.amazon.com.br/dp/B0BXGM2YYC)
+
+Preço original: R$ 949,05
+
+**À Venda por:** **~R$ 650**
+
+---
+
+### Tripé Profissional 1,80m + Suporte Ulanzi ST-06S
+![Photo 1](./photos/P_20260108_104858.jpg)
+
+**Modelo:** `180cm + ST-06S`
+**Estado:** Excelente
+
+#### Destaques:
+  - Tripé robusto com altura ajustável até 1,80m.
+  - Cabeça semi-hidráulica para movimentos suaves.
+  - Inclui suporte de celular premium Ulanzi ST-06S com ajuste de inclinação e sapata fria (cold shoe) para microfone ou luz.
+  - Pés antiderrapantes e travas de segurança.
+
+**Links:** [Amazon (Tripé)](https://www.amazon.com.br/dp/B0C5NNLB31)
+
+Preço original: ~ R$ 180 (Tripé + Suporte)
+
+**À Venda por:** **~R$ 120**
 
 ---
 
