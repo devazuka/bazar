@@ -430,7 +430,7 @@ Preço original: R$ 489,92
 ### Lixeiras Automáticas Banheiro (15L)
 ![Photo 4](./photos/P_20260107_171853.jpg)
 
-**Modelo:** `LK2115`
+**Modelo**: `LK2115`
 **Estado:** Excelente
 
 #### Destaques:
@@ -442,6 +442,24 @@ Preço original: R$ 489,92
 Preço original: R$ 115,00
 
 **À Venda por:** **~R$ 80**
+
+---
+
+### Fragmentadora de Papel Aurora AS600S
+![Photo 1](./photos/P_20260108_104511.jpg)
+
+**Modelo:** `AS600S`
+**Estado:** Excelente
+
+#### Destaques:
+  - Capacidade para fragmentar até 6 folhas por vez.
+  - Fragmenta cartões de crédito (um por vez).
+  - Design compacto, ideal para home office.
+  - Chave seletora com funções: Auto, Off e Reverso.
+
+Preço original: ~ R$ 320
+
+**À Venda por:** **~R$ 180**
 
 ---
 
