@@ -836,6 +836,7 @@ Preço original: ~ R$ 1.500
 ### Fritadeira Elétrica Electrolux 5L (Edição Rita Lobo)
 ![Photo 1](./photos/P_20260108_104549.jpg)
 ![Photo 2](./photos/P_20260108_104727.jpg)
+![Photo 3](./photos/P_20260108_104815.jpg)
 
 **Modelo:** `EAF50 (Assistant Touch)`
 **Estado:** Excelente
@@ -852,25 +853,6 @@ Preço original: ~ R$ 650
 
 ---
 
-### Fritadeira Elétrica Air Fryer Oven 12L Electrolux (Edição Rita Lobo)
-![Photo 1](./photos/P_20260108_104815.jpg)
-
-**Modelo:** `EAF90 (Assistant Touch)`
-**Estado:** Excelente
-
-#### Destaques:
-  - Capacidade de 12 litros: Permite preparar grandes porções ou diferentes alimentos simultaneamente.
-  - Funções 5 em 1: Frita com ar, assa, desidrata, reaquece e gratina.
-  - Painel Digital Assistant Touch: 9 receitas pré-programadas e controle preciso de tempo e temperatura.
-  - Coleção Rita Lobo: Acabamento sofisticado e design pensado para a melhor experiência culinária.
-
-**Links:** [Site do Fabricante](https://www.electrolux.com.br/fritadeira-eletrica-air-fryer-oven-12l-electrolux-por-rita-lobo-grafite-eaf90/p)
-
-Preço original: ~ R$ 1.100
-
-**À Venda por:** **~R$ 750**
-
----
 
 ### Estabilizador Gimbal Hohem iSteady M6 (Kit com Sensor AI)
 ![Photo 1](./photos/P_20260108_104833.jpg)
@@ -1463,6 +1445,181 @@ Preço original: ~ R$ 250
 Preço original: ~ R$ 800
 
 **À Venda por:** **~R$ 500**
+
+---
+
+### Espelho Orgânico Diamond (Acabamento em Couro)
+![Photo 1](./photos/P_20260108_151924.jpg)
+![Photo 2](./photos/P_20260108_151932.jpg)
+
+**Modelo:** `Diamond 60x40`
+**Estado:** Excelente
+
+#### Destaques:
+  - Design orgânico moderno com moldura em couro.
+  - Dimensões: 60cm x 40cm.
+  - Ideal para salas, quartos ou halls de entrada.
+  - Acabamento premium e fácil fixação.
+
+Preço original: ~ R$ 80
+
+**À Venda por:** **~R$ 50**
+
+---
+
+### Espelho Orgânico Grande (Fim de Corredor)
+![Photo 1](./photos/P_20260108_152019.jpg)
+
+**Modelo:** `Orgânico Grande`
+**Estado:** Excelente
+
+#### Destaques:
+  - Espelho decorativo de grandes dimensões com formato fluido.
+  - Perfeito para ampliar ambientes e dar um toque moderno.
+  - Design sofisticado que se destaca na decoração.
+
+Preço original: ~ R$ 215
+
+**À Venda por:** **~R$ 130**
+
+---
+
+### Jogo de Dardos Profissional
+![Photo 1](./photos/P_20260108_152045.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Alvo de dardos clássico com numeração clara.
+  - Acompanha conjunto de dardos (penas vermelhas e amarelas).
+  - Ideal para lazer em casa, áreas gourmet ou salas de jogos.
+  - Fácil de pendurar em qualquer parede.
+
+**À Venda por:** **~R$ 80**
+
+---
+
+### Action Figure Joker (The Dark Knight)
+![Photo 1](./photos/P_20260108_152052.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Estatueta detalhada do Coringa (Heath Ledger) sobre base temática.
+  - Peça de coleção para fãs da DC Comics e do Batman.
+  - Pintura e acabamento de alta qualidade.
+
+**À Venda por:** **~R$ 120**
+
+---
+
+### Miniaturas de Navios de Cruzeiro MSC (Seaview & Preziosa)
+![Photo 1](./photos/P_20260108_152100.jpg)
+![Photo 2](./photos/P_20260108_152107.jpg)
+
+**Modelos:** `MSC Seaview` e `MSC Preziosa`
+**Estado:** Excelente (em base de madeira)
+
+#### Destaques:
+  - Réplicas detalhadas dos famosos navios de cruzeiro da MSC.
+  - Fixados em base de madeira elegante com identificação do modelo.
+  - Peças decorativas ideais para entusiastas de viagens e modelismo.
+
+**À Venda por:** **~R$ 150 (Cada)**
+
+---
+
+### Cadeira Eames DSW Rosa
+![Photo 1](./photos/P_20260108_152156.jpg)
+
+**Modelo:** `Eames DSW`
+**Estado:** Excelente
+
+#### Destaques:
+  - Design icônico de Charles & Ray Eames.
+  - Assento em polipropileno rosa com pés palito em madeira.
+  - Combinação perfeita de estilo e conforto.
+  - Ideal para escrivaninhas, quartos ou salas de jantar.
+
+Preço original: ~ R$ 180
+
+**À Venda por:** **~R$ 110**
+
+---
+
+### Mochila de Lona e Couro Vintage
+![Photo 1](./photos/P_20260108_152305.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Design retrô/vintage em lona resistente com detalhes em couro.
+  - Compartimentos espaçosos com fechamento em fivela e zíper.
+  - Alças confortáveis e robustas.
+  - Estilo versátil para uso diário, viagens ou estudos.
+
+**À Venda por:** **~R$ 160**
+
+---
+
+### Placa Decorativa Rústica (Música, Risos, Tempo, Sonhos, Amor)
+![Photo 1](./photos/P_20260108_152311.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Conjunto de placas metálicas interligadas por correntes.
+  - Mensagens inspiradoras com estética vintage/industrial.
+  - Peça única para decorar varandas, salas ou jardins.
+
+**À Venda por:** **~R$ 60**
+
+---
+
+### Secador de Cabelo Compacto (Vermelho)
+![Photo 1](./photos/P_20260108_152317.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Design leve e compacto, ideal para viagens ou uso diário.
+  - Cor vermelha vibrante com acabamento brilhoso.
+  - Cabo ergonômico e bico direcionador de ar.
+
+**À Venda por:** **~R$ 50**
+
+---
+
+### Coleção de Bonés (Nacional/Senna, Superman, BSB City)
+![Photo 1](./photos/P_20260108_152323.jpg)
+![Photo 2](./photos/P_20260108_152345.jpg)
+![Photo 3](./photos/P_20260108_152412.jpg)
+
+**Modelos:** `Nacional (Ayrton Senna)`, `Superman (DC)`, `BSB City Half Marathon`
+**Estado:** Excelente/Novos
+
+#### Destaques:
+  - **Nacional:** Réplica icônica do boné usado por Ayrton Senna.
+  - **Superman:** Design clássico com logo bordado.
+  - **BSB City:** Boné esportivo de alta performance (meia maratona).
+
+**À Venda por:** **~R$ 50 (Cada)**
+
+---
+
+### Óculos de Grau Chilli Beans (Armação Preta)
+![Photo 1](./photos/P_20260108_152423.jpg)
+![Photo 2](./photos/P_20260108_152428.jpg)
+
+**Marca:** `Chilli Beans`
+**Estado:** Excelente
+
+#### Destaques:
+  - Armação estilosa em acetato preto.
+  - Design moderno e confortável.
+  - (Necessário trocar as lentes para sua graduação).
+
+**À Venda por:** **~R$ 100**
 
 ---
 

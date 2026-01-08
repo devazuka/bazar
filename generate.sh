@@ -38,6 +38,7 @@ titles=()
 ids=()
 prices=()
 norm_titles=()
+declare -A matched_ids
 while IFS=$'\t' read -r title id price; do
   titles+=("$title")
   ids+=("$id")
@@ -88,6 +89,7 @@ while IFS= read -r line; do
     if (( best_idx >= 0 )); then
       id="${ids[$best_idx]}"
       price="${prices[$best_idx]}"
+      matched_ids["$id"]=1
       if [[ -n "$price" ]]; then
         echo "<li><a href=\"#${id}\">${item}</a> — ${price}</li>" >> "$tmp_fragment"
       else
@@ -109,6 +111,19 @@ if (( ${#unmatched[@]} > 0 )); then
   printf " - %s\n" "${unmatched[@]}" >&2
   exit 1
 fi
+
+missing=()
+for i in "${!titles[@]}"; do
+  title="${titles[$i]}"
+  id="${ids[$i]}"
+  norm_title="$(normalize "$title")"
+  if [[ "$norm_title" == "e muito mais" ]]; then
+    continue
+  fi
+  if [[ -z "${matched_ids[$id]+x}" ]]; then
+    missing+=("$title")
+  fi
+done
 
 awk '
   NR==FNR { frag = frag $0 ORS; next }
@@ -149,3 +164,10 @@ awk '
 mv "$tmp_top" index.html
 
 echo "index.html regenerated successfully."
+
+if (( ${#missing[@]} > 0 )); then
+  printf "Items in LISTING.md missing from LISTING_CATEGORIAS.md:\n" >&2
+  printf " - %s\n" "${missing[@]}" >&2
+  exit 1
+fi
+
