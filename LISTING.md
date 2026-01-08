@@ -835,8 +835,8 @@ Preço original: ~ R$ 1.500
 
 ### Fritadeira Elétrica Electrolux 5L (Edição Rita Lobo)
 ![Photo 1](./photos/P_20260108_104549.jpg)
-![Photo 2](./photos/P_20260108_104727.jpg)
 ![Photo 3](./photos/P_20260108_104815.jpg)
+![Photo 2](./photos/P_20260108_104727.jpg)
 
 **Modelo:** `EAF50 (Assistant Touch)`
 **Estado:** Excelente
