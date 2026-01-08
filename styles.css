@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --bg: #f7f4ef;
+  --card: #ffffff;
+  --text: #1f2328;
+  --muted: #5a6470;
+  --accent: #1b5e5a;
+  --border: #e4ddd2;
+  --serif: "Source Serif 4", "Georgia", "Times New Roman", serif;
+  --sans: "Work Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--text);
+  background: linear-gradient(180deg, #f7f4ef 0%, #f3efe8 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+body > * {
+  width: min(960px, 100%);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+body > h1 {
+  font-family: var(--serif);
+  font-size: 2.4rem;
+  margin: 36px auto 14px;
+  letter-spacing: 0.3px;
+}
+
+body > p {
+  color: var(--muted);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 28px auto;
+}
+
+h3 {
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding: 18px 18px 8px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px 12px 0 0;
+}
+
+header + p {
+  border-radius: 12px 12px 0 0;
+}
+
+h4 {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0;
+  color: var(--accent);
+  background: var(--card);
+  border-left: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  padding: 12px 18px 4px;
+}
+
+p, ul, pre, iframe {
+  background: var(--card);
+  border-left: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  margin: 0;
+  padding: 12px 18px;
+}
+
+iframe {
+  height: 480px;
+  display: block;
+  border: none;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: break-all;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+ul {
+  margin-bottom: 0;
+  padding-left: 36px;
+  padding-bottom: 12px;
+}
+
+p + p, p + pre, pre + iframe {
+  border-top: 1px solid var(--border);
+}
+
+/* Close cards */
+p:has(+ hr), p:has(+ h3), 
+ul:has(+ hr), ul:has(+ h3),
+pre:has(+ hr), pre:has(+ h3),
+iframe:has(+ hr), iframe:has(+ h3),
+p:last-child, iframe:last-child {
+  border-bottom: 1px solid var(--border);
+  border-radius: 0 0 12px 12px;
+  margin-bottom: 32px;
+}
+
+/* Make the final price bigger */
+p > strong:last-child {
+  font-size: 1.25rem;
+  color: var(--accent);
+}
+
+code {
+  background: #f1eee9;
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 0.95em;
+  font-family: var(--sans);
+}
+
+strong {
+  font-weight: 600;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(27, 94, 90, 0.35);
+}
+
+a:hover {
+  color: #0f3f3c;
+  border-bottom-color: #0f3f3c;
+}
+
+figure {
+  margin: 0;
+  padding: 12px 18px;
+  background: var(--card);
+  border-left: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  display: block;
+}
+
+figure img,
+img {
+  width: 50%;
+  max-width: 540px;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  box-shadow: 0 10px 28px rgba(17, 20, 24, 0.12);
+  margin: 0 auto;
+}
+
+p:has(> img) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+p > img {
+  width: calc(50% - 6px) !important;
+  margin: 6px 0;
+  flex: 0 0 auto;
+}
+
+p > img:only-child {
+  width: 50% !important;
+  max-width: 540px;
+}
+
+.image-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: center;
+  margin: 0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.image-row img {
+  flex: 0 0 calc(50% - 6px);
+  margin: 0;
+}
+
+.image-row img:only-child {
+  flex-basis: 100%;
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+figcaption {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: var(--muted);
+  display: none;
+}
+
+@media (max-width: 720px) {
+  body > h1,
+  body > p,
+  body > hr,
+  body > h3,
+  body > h4,
+  body > ul,
+  p,
+  figure {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  img,
+  figure img,
+  figure,
+  p > img {
+    width: 100% !important;
+    max-width: 100%;
+  }
+
+  p > img + img {
+    margin-left: 0;
+    margin-top: 12px;
+  }
+}
+
+p:has(svg) {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
