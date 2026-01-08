@@ -1199,6 +1199,43 @@ Preço original: ~ R$ 600
 
 ---
 
+### Difusor e Umidificador de Ambientes (Branco)
+![Photo 1](./photos/P_20260108_110705.jpg)
+![Photo 2](./photos/P_20260108_110710.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Design minimalista e compacto em branco fosco.
+  - Funciona como difusor de aromas (compatível com óleos essenciais) e umidificador.
+  - Ideal para criar ambientes relaxantes ou melhorar a umidade do ar.
+  - Acompanha fonte de alimentação original.
+
+Preço original: ~ R$ 45
+
+**À Venda por:** **~R$ 30**
+
+---
+
+### Guitarra Elétrica Queen's (Estilo Stratocaster - Vermelha)
+![Photo 1](./photos/P_20260108_111001.jpg)
+![Photo 2](./photos/P_20260108_111004.jpg)
+
+**Marca:** `Queen's`
+**Estado:** Excelente
+
+#### Destaques:
+  - Modelo clássico Stratocaster na cor vermelha vibrante com escudo branco.
+  - Configuração de captadores SSS (3 singles) para timbres limpos e versáteis.
+  - Braço em madeira clara com escala de boa tocabilidade.
+  - Ideal para iniciantes ou como guitarra de estudo.
+
+Preço original: ~ R$ 600
+
+**À Venda por:** **~R$ 350**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
