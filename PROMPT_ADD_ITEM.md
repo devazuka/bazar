@@ -4,12 +4,12 @@ You are an expert cataloger. Your task is to add a single new item to `LISTING.m
 # Context
 - Current image to process: {{PHOTO}}
 - Reference database: `facturas/itens_compilados.csv`
-- Target file: `LISTING.md`
+- Target files: `LISTING.md`, `LISTING_CATEGORIAS.md`
 
 # CRITICAL: SCOPE RESTRICTION
 - **ONLY use the files provided in your context.**
 - **NEVER** use tools to explore the file system (`list_directory`, `glob`, `read_file`, `search_file_content`, etc.).
-- Your entire world consists ONLY of the provided files: `LISTING.md`, `facturas/itens_compilados.csv`, and `{{PHOTO}}`.
+- Your entire world consists ONLY of the provided files: `LISTING.md`, `LISTING_CATEGORIAS.md`, `facturas/itens_compilados.csv`, and `{{PHOTO}}`.
 - Do NOT attempt to read any other files or list any directories.
 - The ONLY exception for tool use is `google_web_search` for research and `run_shell_command` EXCLUSIVELY to run `./generate.sh`.
 - **ONLY analyze `{{PHOTO}}`**. Do not try to find "more photos" of the item.
@@ -34,10 +34,16 @@ You are an expert cataloger. Your task is to add a single new item to `LISTING.m
    - Pricing: `Preço original: ~ R$ [Price]`
    - Bazar Price: `**À Venda por**: **~R$ [Bazar Price]**` (typically 50-70% of original or used market average).
 
-6. **Regenerate Site**: Run `./generate.sh` to update `index.html`.
+6. **Update Categories**: Add the same item to `LISTING_CATEGORIAS.md`.
+   - Choose the most appropriate existing category or create a new `## Category` if needed.
+   - Add a bullet with the item name and tags: `- [Product Name] (tags: #tag1 #tag2 #tag3 #tag4 #tag5)`.
+   - Keep the item name consistent with the `LISTING.md` title (same wording).
+
+7. **Regenerate Site**: Run `./generate.sh` to update `index.html`.
 
 # Formatting Constraints
 - **Strict Scope**: Analyze ONLY the provided `{{PHOTO}}`. Do NOT list or scan the `photos/` directory.
 - Language: Portuguese (BR).
 - Insert BEFORE the "### E muito mais..." section in `LISTING.md`.
+- Ensure the item exists in `LISTING_CATEGORIAS.md` with tags and the correct category.
 - Ensure a blank line follows the `---` separator.

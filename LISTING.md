@@ -1312,6 +1312,83 @@ Preço original: ~ R$ 450
 
 ---
 
+### Ring Light Profissional com Suporte para Celular
+![Photo 1](./photos/P_20260108_120141.jpg)
+![Photo 2](./photos/P_20260108_120212.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Iluminação LED circular para vídeos, fotos e maquiagem.
+  - Suporte flexível para smartphone integrado ao centro.
+  - Controle de intensidade e temperatura de cor (Frio, Neutro, Quente).
+  - Alimentação via USB, compatível com carregadores de celular e computadores.
+
+Preço original: ~ R$ 268
+
+**À Venda por:** **~R$ 160**
+
+---
+
+### Pod Descartável Ignite V50
+![Photo 1](./photos/P_20260108_120222.jpg)
+
+**Modelo:** `V50`
+**Estado:** Excelente (Com pouch de veludo)
+
+#### Destaques:
+  - Capacidade de 5000 puffs com bateria recarregável.
+  - Tecnologia Mesh Coil para sabor consistente e intenso.
+  - Design sofisticado em degradê metálico (Copper/Silver).
+  - Inclui pouch de proteção em veludo marrom.
+
+Preço original: ~ R$ 110
+
+**À Venda por:** **~R$ 60**
+
+---
+
+### Carregador de Baterias Nitecore Digicharger D4
+![Photo 1](./photos/P_20260108_121306.jpg)
+
+**Modelo:** `Digicharger D4`
+**Estado:** Excelente
+
+#### Destaques:
+  - Carregamento simultâneo de até 4 baterias.
+  - Compatível com baterias Li-ion, Ni-MH e Ni-Cd.
+  - Painel LCD integrado que exibe o progresso de carregamento, voltagem e corrente.
+  - Detecção automática do tipo de bateria e status.
+
+**Links:** [Site do Fabricante](https://charger.nitecore.com/product/d4)
+
+Preço original: ~ R$ 350
+
+**À Venda por:** **~R$ 220**
+
+---
+
+### Escova Elétrica Oral-B iO Series 9 (Preta)
+![Photo 1](./photos/P_20260108_151739.jpg)
+
+**Modelo:** `iO Series 9`
+**Estado:** Excelente
+
+#### Destaques:
+  - Tecnologia iO: combina a icônica cabeça redonda da Oral-B com microvibrações suaves.
+  - Display interativo colorido: fornece orientações em tempo real e saudações personalizadas.
+  - 7 modos inteligentes: Limpeza Diária, Sensível, Cuidados com a Gengiva, Limpeza Intensa, Branqueamento, Super Sensível e Limpeza de Língua.
+  - Sensor de pressão inteligente: acende em vermelho, branco ou verde para indicar se você está aplicando a pressão ideal.
+  - Carregador magnético rápido e estojo de viagem premium.
+
+**Links:** [Site do Fabricante](https://www.oralb.com.br/)
+
+Preço original: R$ 2.184,76
+
+**À Venda por:** **~R$ 1.400**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 

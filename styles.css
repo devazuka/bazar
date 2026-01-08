@@ -81,6 +81,48 @@ h4 {
   padding: 12px 18px 4px;
 }
 
+.index {
+  margin: 24px auto 18px;
+  padding: 16px 18px 12px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.index h2 {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 10px;
+}
+
+.index h3 {
+  font-family: var(--sans);
+  font-size: 1rem;
+  margin: 12px 0 4px;
+  padding: 0;
+  background: none;
+  border: none;
+  color: var(--text);
+}
+
+.index ul {
+  background: transparent;
+  border: none;
+  margin: 0 0 10px;
+  padding: 0 0 0 18px;
+  column-count: 2;
+  column-gap: 24px;
+}
+
+.index li {
+  margin: 2px 0;
+  font-size: 0.95rem;
+  break-inside: avoid;
+}
+
 p, ul, pre, iframe {
   background: var(--card);
   border-left: 1px solid var(--border);
@@ -247,6 +289,10 @@ figcaption {
     margin-left: 0;
     margin-top: 12px;
   }
+
+  .index ul {
+    column-count: 1;
+  }
 }
 
 p:has(svg) {
@@ -314,6 +360,15 @@ p:has(svg) {
     border-bottom: 1px solid var(--border) !important;
     margin-bottom: 2cm !important; /* Space between items */
     border-radius: 0 0 12px 12px !important;
+  }
+
+  .index,
+  .index h3 {
+    break-before: auto !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    border-top: none !important;
+    background: var(--card) !important;
   }
 
   img {

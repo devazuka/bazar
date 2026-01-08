@@ -56,6 +56,7 @@
 - Escada Articulada (Step Ladder) (tags: #escada #aluminio #dobravel #casa #seguranca)
 
 ## Saude e Beleza
+- Escova Eletrica Oral-B iO Series 9 (tags: #beleza #saude #higiene #escova #io)
 - Auxiliar de Sono Dreamate D6 TENS (tags: #sono #tens #saude #relaxamento #usb)
 - Bone de LED Capellux (Tratamento Capilar) (tags: #capilar #led #fototerapia #beleza #tratamento)
 - Kit de Beleza e Bem-Estar (Lotes) (tags: #skincare #bemestar #oleos #aromaterapia #kit)
@@ -81,6 +82,7 @@
 ## Acessorios Mobile e Energia
 - Power Bank 22.5W (Com Cabos Integrados) (tags: #powerbank #carregamento #usb-c #lightning #portatil)
 - Carregador Sem Fio Dobravavel FAM (tags: #carregador #wireless #qi #dobravel #suporte)
+- Carregador de Baterias Nitecore Digicharger D4 (tags: #carregador #baterias #nitecore #lcd #inteligente)
 
 ## Wearables e Relogios
 - Smartwatch Huawei Watch GT 5 (46mm) (tags: #smartwatch #huawei #wearable #saude #esportes)
