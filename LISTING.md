@@ -969,6 +969,44 @@ Preço original: ~ R$ 100
 
 ---
 
+### Kit de Halteres de Ferro Revestidos (10kg e 15kg)
+![Photo 1](./photos/P_20260108_105117.jpg)
+
+**Modelo:** `Halteres Bola (Vinil/PVC)`
+**Estado:** Excelente
+
+#### Destaques:
+  - Revestimento emborrachado/vinil de alta resistência.
+  - Design ergonômico em formato de bola para exercícios de impacto e força.
+  - Kit robusto com 2 pares: um par de 10kg e um par de 15kg (Total 50kg).
+  - Ideal para treinos intensos de musculação e crossfit em casa.
+
+Preço original: ~ R$ 850 (Total pelos dois pares de peso elevado)
+
+**À Venda por:** **~R$ 550**
+
+---
+
+### Máquina de Alongamento de Pernas (Leg Stretch Machine)
+![Photo 1](./photos/P_20260108_105122.jpg)
+
+**Modelo:** `B0DGSRYFHC`
+**Estado:** Excelente
+
+#### Destaques:
+  - Ajuste manual via volante para abertura gradual e segura.
+  - Construção robusta em aço com estofamento confortável (Preto/Vermelho).
+  - Ideal para atletas, dançarinos e praticantes de artes marciais.
+  - Melhora a flexibilidade e amplitude de movimento de forma controlada.
+
+**Links:** [Amazon](https://www.amazon.com.br/dp/B0DGSRYFHC)
+
+Preço original: R$ 1.299,99
+
+**À Venda por:** **~R$ 850**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
