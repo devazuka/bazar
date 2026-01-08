@@ -1,6 +1,6 @@
 Este bazar foi organizado com os itens que pertenciam ao meu irmão, que infelizmente nos deixou recentemente. Todo o valor arrecadado será destinado a apoiar nossa família neste momento difícil.
 
-**Todos os preços são negociáveis.** Nosso objetivo principal é que esses itens encontrem novos lares onde sejam úteis. Sinta-se à vontade para conferir a lista e entrar em contato para propostas ou dúvidas.
+<!-- **Todos os preços são negociáveis.** Nosso objetivo principal é que esses itens encontrem novos lares onde sejam úteis. Sinta-se à vontade para conferir a lista e entrar em contato para propostas ou dúvidas. -->
 
 ---
 
