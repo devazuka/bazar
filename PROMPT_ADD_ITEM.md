@@ -33,7 +33,9 @@ You are an expert cataloger. Your task is to add a single new item to `LISTING.m
    - Pricing: `Preço original: ~ R$ [Price]`
    - Bazar Price: `**À Venda por**: **~R$ [Bazar Price]**` (typically 50-70% of original or used market average).
 
-# Constraints
+6. **Regenerate Site**: Run `./generate.sh` to update `index.html`.
+
+# Formatting Constraints
 - **Strict Scope**: Analyze ONLY the provided `{{PHOTO}}`. Do NOT list or scan the `photos/` directory.
 - Language: Portuguese (BR).
 - Insert BEFORE the "### E muito mais..." section in `LISTING.md`.
