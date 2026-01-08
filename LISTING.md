@@ -1007,6 +1007,24 @@ Preço original: R$ 1.299,99
 
 ---
 
+### Esteira Elétrica Residencial Plana (Até 12km/h)
+![Photo 1](./photos/P_20260108_105127.jpg)
+
+**Modelo:** `H55 (220V)`
+**Estado:** Excelente
+
+#### Destaques:
+  - Velocidade ajustável até 12km/h.
+  - Design ultra fino e compacto, fácil de guardar sob móveis ou encostada.
+  - Painel digital integrado para monitoramento de tempo, velocidade, distância e calorias.
+  - Braço de apoio para maior estabilidade durante o exercício.
+
+Preço original: R$ 2.299,00
+
+**À Venda por:** **~R$ 1.500**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
