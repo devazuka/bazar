@@ -14,6 +14,7 @@
 ## Audio e Video
 - Monitores de Áudio Edifier M60 (Branco) (tags: #audio #monitores #bluetooth #hires #desktop)
 - Smart TV Portátil LG StanbyME 27" (tags: #tv #lg #touch #portatil #nfc)
+- Óculos de Áudio JBL Soundgear Frames (tags: #jbl #audio #oculos #wearable #opensound)
 
 ## Computadores e Perifericos
 - Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever) (tags: #teclado #mecanico #retro #bluetooth #usb-c)
@@ -59,6 +60,10 @@
 - Prateleira Decorativa em Madeira (Suporte Preto) (tags: #prateleira #madeira #decoracao #suporte #preto)
 - Tambor Decorativo Ferrari (Customizado) (tags: #decoracao #ferrari #tambor #customizado #tema)
 - Difusor e Umidificador de Ambientes (Branco) (tags: #difusor #umidificador #aroma #casa #branco)
+- Espelho Orgânico Diamond (Acabamento em Couro) (tags: #espelho #decoracao #organico #couro #parede)
+- Espelho Orgânico Grande (Fim de Corredor) (tags: #espelho #decoracao #organico #corredor #grande)
+- Cadeira Eames DSW Rosa (tags: #cadeira #eames #design #decoracao #rosa)
+- Placa Decorativa Rústica (Música, Risos, Tempo, Sonhos, Amor) (tags: #placa #decoracao #rustica #frase #parede)
 - Escultura Self Made Man (30cm) (tags: #escultura #decoracao #arte #estatua #escritorio)
 
 ## Organizacao e Escritorio
@@ -74,17 +79,21 @@
 - Auxiliar de Sono Dreamate D6 TENS (tags: #sono #tens #saude #relaxamento #usb)
 - Boné de LED Capellux (Tratamento Capilar) (tags: #capilar #led #fototerapia #beleza #tratamento)
 - Kit de Beleza e Bem-Estar (Lotes) (tags: #skincare #bemestar #oleos #aromaterapia #kit)
+- Secador de Cabelo Compacto (Vermelho) (tags: #secador #beleza #cabelo #compacto #vermelho)
 
 ## Esportes e Fitness
 - Kit de Halteres de Ferro Revestidos (10kg e 15kg) (tags: #halteres #musculacao #treino #forca #homegym)
 - Máquina de Alongamento de Pernas (Leg Stretch Machine) (tags: #alongamento #flexibilidade #treino #aerobico #pernas)
 - Esteira Elétrica Residencial Plana (Até 12km/h) (tags: #esteira #cardio #treino #compacta #homegym)
 - Kit de Treino 4 em 1 Domyos (Roda Abdominal e Apoio de Flexão) (tags: #domyos #treino #core #flexao #acessorio)
+- Jogo de Dardos Profissional (tags: #dardos #jogo #esporte #alvo #laser)
 
 ## Colecionaveis e Hobby
 - Fun-Tech Lab 1:64 Windsible Desktop Wind Tunnel (tags: #colecionavel #1_64 #hotwheels #aerodinamica #display)
 - Runsible - Dinamômetro para Miniaturas 1:64 (tags: #colecionavel #1_64 #hotwheels #dinamometro #display)
 - Escudo Capitão América (Réplica Colecionável) (tags: #marvel #colecionavel #cosplay #decoracao #escudo)
+- Action Figure Joker (The Dark Knight) (tags: #colecionavel #actionfigure #dc #joker #filme)
+- Miniaturas de Navios de Cruzeiro MSC (Seaview & Preziosa) (tags: #miniatura #colecionavel #navio #msc #cruzeiro)
 
 ## Mobilidade
 - Patinete Elétrico Polares T10pro (800W) (tags: #patinete #eletrico #mobilidade #urbano #800w)
@@ -108,6 +117,11 @@
 
 ## Games e Consoles
 - PlayStation 5 Slim (Edição Digital) + 2 Jogos + Controle Extra + Dock (tags: #playstation #ps5 #console #jogos #sony)
+
+## Moda e Acessorios
+- Mochila de Lona e Couro Vintage (tags: #mochila #lona #couro #vintage #bolsa)
+- Coleção de Bonés (Nacional/Senna, Superman, BSB City) (tags: #bones #colecao #acessorios #casual #estilo)
+- Óculos de Grau Chilli Beans (Armação Preta) (tags: #oculos #grau #chillibeans #armacao #preta)
 
 ## Instrumentos Musicais
 - Guitarra Elétrica Queen's (Estilo Stratocaster - Vermelha) (tags: #guitarra #musica #instrumento #stratocaster #vermelha)
