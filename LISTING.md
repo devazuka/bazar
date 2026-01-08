@@ -1291,6 +1291,27 @@ Preço original: ~ R$ 5.100 (Combo)
 
 ---
 
+### Suporte de Leitura Ajustável em Madeira e Alumínio
+![Photo 1](./photos/P_20260108_115951.jpg)
+![Photo 2](./photos/P_20260108_115959.jpg)
+
+**Modelo:** `Aclouddate Articulado`
+**Estado:** Excelente
+
+#### Destaques:
+  - Base em madeira maciça premium com braço articulado em alumínio escovado.
+  - Ajuste total de altura, inclinação e rotação para máxima ergonomia.
+  - Prendedores de página ajustáveis que não danificam o livro.
+  - Ideal para livros pesados, tablets ou notebooks leves.
+
+**Links:** [Produto Similar (Amazon)](https://www.amazon.com.br/dp/B08V8N4B2C)
+
+Preço original: ~ R$ 450
+
+**À Venda por:** **~R$ 280**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
