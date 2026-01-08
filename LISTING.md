@@ -1236,6 +1236,23 @@ Preço original: ~ R$ 600
 
 ---
 
+### Prateleira Decorativa em Madeira (Suporte Preto)
+![Photo 1](./photos/P_20260108_111705.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Design minimalista com acabamento em madeira clara.
+  - Suportes metálicos pretos, garantindo estabilidade e estilo industrial/moderno.
+  - Ideal para organizar livros, pequenos vasos ou objetos decorativos.
+  - Dimensões compactas e fácil instalação na parede.
+
+Preço original: ~ R$ 80
+
+**À Venda por:** **~R$ 50**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
