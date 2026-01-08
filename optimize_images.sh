@@ -3,7 +3,7 @@
 
 for img in photos/*.jpg; do
   [ -e "$img" ] || continue
-  
+
   # Get dimensions
   DIM=$(identify -format "%w %h" "$img")
   WIDTH=$(echo $DIM | cut -d' ' -f1)

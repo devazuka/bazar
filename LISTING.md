@@ -1025,6 +1025,140 @@ Preço original: R$ 2.299,00
 
 ---
 
+### Kit de Treino 4 em 1 Domyos (Roda Abdominal e Apoio de Flexão)
+![Photo 1](./photos/P_20260108_105135.jpg)
+
+**Modelo:** `Push Up Wheel`
+**Estado:** Excelente
+
+#### Destaques:
+  - Kit versátil que permite realizar flexões, exercícios abdominais e de instabilidade.
+  - Design compacto e modular, fácil de guardar e transportar.
+  - Base com rodinhas removíveis para diferentes níveis de intensidade.
+  - Suporta até 110kg.
+
+**Links:** [Decathlon](https://www.decathlon.com.br/kit-roda-abdominal-e-apoio-de-flexao-4-em-1-cross-training-domyos-8556755/p)
+
+Preço original: ~ R$ 150
+
+**À Venda por:** **~R$ 90**
+
+---
+
+### Garrafa Filtro Portátil Stone Water
+![Photo 1](./photos/P_20260108_105140.jpg)
+
+**Modelo:** `Stone Water (Verde)`
+**Estado:** Excelente (Na caixa)
+
+#### Destaques:
+  - Sistema de filtragem avançado que elimina 99,9% de bactérias, protozoários e microplásticos.
+  - Filtra cloro, metais pesados e melhora o gosto da água.
+  - Vida útil do filtro de até 1.500 litros (aprox. 1 ano de uso).
+  - Inclui capa térmica e seringa para limpeza do filtro.
+  - Ideal para trilhas, viagens e uso diário com água de fontes diversas.
+
+**Links:** [Site do Fabricante](https://www.stonewater.com.br/)
+
+Preço original: ~ R$ 380
+
+**À Venda por:** **~R$ 250**
+
+---
+
+### Garrafa Térmica NRMEI 5L
+![Photo 1](./photos/P_20260108_105143.jpg)
+
+**Modelo:** `NRMEI 5L (Preta/Vermelha)`
+**Estado:** Excelente
+
+#### Destaques:
+  - Grande capacidade de 5 litros, ideal para manter bebidas geladas por horas (Tererê, sucos, água).
+  - Isolamento térmico em poliuretano (PU) para máxima conservação de temperatura.
+  - Design prático com alça dupla para transporte seguro e facilidade ao servir.
+  - Bico dosador ergonômico que evita respingos e facilita o controle do fluxo.
+
+Preço original: ~ R$ 459
+
+**À Venda por:** **~R$ 230**
+
+---
+
+### Cinzeiro Telescópio em Metal (Prata)
+![Photo 1](./photos/P_20260108_105209.jpg)
+![Photo 2](./photos/P_20260108_105213.jpg)
+
+**Modelo:** `Telescópico Decorativo`
+**Estado:** Excelente
+
+#### Destaques:
+  - Design clássico e elegante com acabamento cromado.
+  - Haste telescópica com altura ajustável (aprox. 55cm a 88cm).
+  - Tampa articulada funcional para conter cinzas e odores.
+  - Base pesada que garante estabilidade e segurança.
+
+Preço original: R$ 169,00
+
+**À Venda por:** **~R$ 100**
+
+---
+
+### Puffs Cubo em Corino (Conjunto com 5 unidades)
+![Photo 1](./photos/P_20260108_105233.jpg)
+
+**Modelo:** `Puff Cubo 35x35`
+**Estado:** Excelente
+
+#### Destaques:
+  - Revestimento em corino sintético de fácil limpeza.
+  - Design leve e versátil para diversos ambientes.
+  - Cores: 2 unidades em Amarelo/Preto e 3 unidades em Vermelho/Preto.
+  - Dimensões compactas, ideais para assentos extras ou apoio de pés.
+
+**Links:** [Mercado Livre](https://lista.mercadolivre.com.br/puff-cubo-corino-35x35)
+
+Preço original: ~ R$ 250 (O conjunto)
+
+**À Venda por:** **~R$ 150 (O lote)**
+
+---
+
+### Puff Baú de Veludo (Verde Esmeralda)
+![Photo 1](./photos/P_20260108_105254.jpg)
+![Photo 2](./photos/P_20260108_105246.jpg)
+
+**Estado:** Excelente
+
+#### Destaques:
+  - Revestimento em veludo macio na cor verde esmeralda.
+  - Função 2 em 1: Assento confortável e baú para organização.
+  - Design cúbico elegante que combina com diversos ambientes.
+  - Estrutura robusta e tampa com dobradiças.
+
+Preço original: ~ R$ 180
+
+**À Venda por:** **~R$ 110**
+
+---
+
+### Cadeira Presidente Ergonômica Mesh (Preta)
+![Photo 1](./photos/P_20260108_105259.jpg)
+
+**Modelo:** `Ergo Mesh High-back`
+**Estado:** Excelente
+
+#### Destaques:
+  - Encosto em tela mesh respirável de alta resistência para melhor ventilação.
+  - Apoio de cabeça ajustável em altura e ângulo, proporcionando suporte cervical.
+  - Design ergonômico com suporte lombar integrado e braços confortáveis.
+  - Base giratória reforçada com rodinhas que não riscam o piso.
+
+Preço original: ~ R$ 1.200
+
+**À Venda por:** **~R$ 750**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
