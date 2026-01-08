@@ -59,12 +59,13 @@ Preço original: ~ R$ 1.500
   - Autonomia estimada de até 35km.
   - Velocidade máxima de ~45km/h.
   - Design robusto e confortável.
+  - Inclui cadeado e suporte de celular.
 
 **Links:** [Mercado Livre](https://produto.mercadolivre.com.br/MLB-5677007786)
 
 Preço original: R$ 3.509,98
 
-**À Venda por:** **~R$ 2.200**
+**À Venda por:** **~R$ 2.600**
 
 ---
 
@@ -659,7 +660,7 @@ Preço original: ~ R$ 6.000 (Na época)
 ### iPhone 17 Pro Max
 ![Photo 2](./photos/P_20260108_010353.jpg)
 
-**Modelo:** `iPhone 17 Pro Max`
+**Modelo:** `iPhone 17 Pro Max (512GB)`
 **Estado:** Excelente (Na caixa)
 
 #### Destaques:
@@ -671,7 +672,7 @@ Preço original: ~ R$ 6.000 (Na época)
 
 Preço original: ~ R$ 9.000+
 
-**À Venda por:** **~R$ 8.000**
+**À Venda por:** **~R$ 9.600**
 
 ---
 
@@ -832,6 +833,23 @@ Preço original: ~ R$ 1.500
 
 **À Venda por:** **~R$ 950**
 
+### Fritadeira Elétrica Electrolux 5L (Edição Rita Lobo)
+![Photo 1](./photos/P_20260108_104549.jpg)
+![Photo 2](./photos/P_20260108_104727.jpg)
+
+**Modelo:** `EAF50 (Assistant Touch)`
+**Estado:** Excelente
+
+#### Destaques:
+  - Painel Digital Assistant Touch: Ajuste preciso de tempo e temperatura com sugestões de preparo.
+  - Capacidade de 5 litros, ideal para famílias.
+  - Parte da coleção exclusiva Electrolux por Rita Lobo.
+  - Cesto removível e fácil de limpar.
+
+Preço original: ~ R$ 650
+
+**À Venda por:** **~R$ 420**
+
 ---
 
 ### E muito mais...
@@ -863,4 +881,3 @@ CEP: 71015-095
     <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
   </svg>
 </div>
-
