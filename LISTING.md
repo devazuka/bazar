@@ -1,8 +1,6 @@
-Este bazar foi organizado com os itens que pertenciam ao meu irmão, que infelizmente nos deixou recentemente. Todo o valor arrecadado será destinado a apoiar nossa família neste momento difícil.
+<!-- Este bazar foi organizado com os itens que pertenciam ao meu irmão, que infelizmente nos deixou recentemente. Todo o valor arrecadado será destinado a apoiar nossa família neste momento difícil. -->
 
 <!-- **Todos os preços são negociáveis.** Nosso objetivo principal é que esses itens encontrem novos lares onde sejam úteis. Sinta-se à vontade para conferir a lista e entrar em contato para propostas ou dúvidas. -->
-
----
 
 
 ### Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever)
@@ -1548,7 +1546,7 @@ Preço original: ~ R$ 180
 ---
 
 ### Mochila de Lona e Couro Vintage
-![Photo 1](./photos/P_20260108_152305.jpg)
+![Photo 1](./photos/P_20260108_152317.jpg)
 
 **Estado:** Excelente
 
@@ -1577,7 +1575,6 @@ Preço original: ~ R$ 180
 ---
 
 ### Secador de Cabelo Compacto (Vermelho)
-![Photo 1](./photos/P_20260108_152317.jpg)
 ![Photo 2](./photos/P_20260108_152345.jpg)
 
 **Estado:** Excelente
@@ -1609,7 +1606,7 @@ Preço original: ~ R$ 180
 ---
 
 ### Óculos de Grau Chilli Beans (Armação Preta)
-![Photo 1](./photos/P_20260108_152156.jpg)
+![Photo 1](./photos/P_20260108_152305.jpg)
 
 **Marca:** `Chilli Beans`
 **Estado:** Excelente
@@ -1620,6 +1617,42 @@ Preço original: ~ R$ 180
   - (Necessário trocar as lentes para sua graduação).
 
 **À Venda por:** **~R$ 100**
+
+---
+
+### Guarda-chuva Automático Fazzoletti (Preto)
+![Photo 1](./photos/P_20260108_152156.jpg)
+
+**Marca:** `Fazzoletti`
+**Estado:** Excelente
+
+#### Destaques:
+  - Sistema de abertura e fechamento automático com um clique.
+  - Cabo anatômico e texturizado para maior firmeza.
+  - Design compacto e estrutura resistente ao vento.
+  - Ideal para transporte em mochilas, bolsas ou no carro.
+
+Preço original: ~ R$ 130
+
+**À Venda por:** **~R$ 75**
+
+---
+
+### Caneta Jato de Plasma (Removedor de Manchas e Verrugas)
+![Photo 1](./photos/P_20260108_154943.jpg)
+
+**Modelo:** `Beauty Mole Removal Sweep Spot Pen (LCD 9 Níveis)`
+**Estado:** Excelente (Na caixa)
+
+#### Destaques:
+  - Tecnologia de jato de plasma para remoção de manchas, verrugas e sardas.
+  - 9 níveis de intensidade ajustáveis para diferentes tipos de tratamento.
+  - Display LCD para monitoramento de potência e carga da bateria.
+  - Recarregável via USB, design ergonômico e portátil.
+
+Preço original: ~ R$ 120
+
+**À Venda por:** **~R$ 70**
 
 ---
 

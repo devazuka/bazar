@@ -80,6 +80,7 @@
 - Boné de LED Capellux (Tratamento Capilar) (tags: #capilar #led #fototerapia #beleza #tratamento)
 - Kit de Beleza e Bem-Estar (Lotes) (tags: #skincare #bemestar #oleos #aromaterapia #kit)
 - Secador de Cabelo Compacto (Vermelho) (tags: #secador #beleza #cabelo #compacto #vermelho)
+- Caneta Jato de Plasma (Removedor de Manchas e Verrugas) (tags: #beleza #saude #tratamento #plasma #estetica)
 
 ## Esportes e Fitness
 - Kit de Halteres de Ferro Revestidos (10kg e 15kg) (tags: #halteres #musculacao #treino #forca #homegym)
@@ -122,6 +123,7 @@
 - Mochila de Lona e Couro Vintage (tags: #mochila #lona #couro #vintage #bolsa)
 - Coleção de Bonés (Nacional/Senna, Superman, BSB City) (tags: #bones #colecao #acessorios #casual #estilo)
 - Óculos de Grau Chilli Beans (Armação Preta) (tags: #oculos #grau #chillibeans #armacao #preta)
+- Guarda-chuva Automático Fazzoletti (Preto) (tags: #acessorio #chuva #fazzoletti #automatico #preto)
 
 ## Instrumentos Musicais
 - Guitarra Elétrica Queen's (Estilo Stratocaster - Vermelha) (tags: #guitarra #musica #instrumento #stratocaster #vermelha)
