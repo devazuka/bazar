@@ -950,6 +950,25 @@ Preço original: ~ R$ 140 (O par)
 
 ---
 
+### Cesto de Roupa em Bambu Retangular (com Forro)
+![Photo 1](./photos/P_20260108_105040.jpg)
+![Photo 2](./photos/P_20260108_105052.jpg)
+
+**Modelo:** `Bambu Natural`
+**Estado:** Excelente
+
+#### Destaques:
+  - Estrutura em bambu natural, resistente e sustentável.
+  - Forro interno em tecido removível e lavável.
+  - Alças laterais de corda para facilitar o transporte.
+  - Design elegante e funcional, ideal para organizar lavanderias ou banheiros.
+
+Preço original: ~ R$ 100
+
+**À Venda por:** **~R$ 60**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
