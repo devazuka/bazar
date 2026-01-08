@@ -27,24 +27,24 @@ Preço original: ~ R$ 850
 
 ---
 
-### Monitores de Áudio Edifier MR4 (Branco)
+### Monitores de Áudio Edifier M60 (Branco)
 ![Photo 1](./photos/P_20260106_143939.jpg)
 ![Photo 2](./photos/P_20260106_144016.jpg)
 
-**Modelo:** `MR4`
+**Modelo:** `M60`
 **Estado:** Excelente
 
 #### Destaques:
-  - Monitor de áudio ativo 2.0 com certificação profissional.
-  - Modos de som Monitor e Music para diferentes usos.
-  - Design elegante em branco, combina com setups minimalistas.
-  - Entradas TRS balanceadas, RCA e AUX.
+  - Sistema 2.0 compacto com 66W RMS de potência.
+  - Certificação Hi-Res Audio e Hi-Res Wireless (LDAC).
+  - Conectividade Tri-mode: Bluetooth 5.3, USB-C e AUX.
+  - Painel de controle touch capacitivo e suporte via app EDIFIER ConneX.
 
-**Links:** [Site do Fabricante](https://edifier.com.br/monitor-de-audio-edifier-mr4-monitor-de-estudio.html)
+**Links:** [Site do Fabricante](https://edifier.com.br/monitor-de-audio-edifier-m60-branco.html)
 
-Preço original: ~ R$ 1.000
+Preço original: ~ R$ 1.500
 
-**À Venda por:** **~R$ 700**
+**À Venda por:** **~R$ 1.000**
 
 ---
 
@@ -208,24 +208,24 @@ Preço original: ~ R$ 80
 
 ---
 
-### Cadeira Gamer Ergonômica ThunderX3 (Branca)
+### Cadeira Presidente Ergonômica Yamasoro (Branca)
 ![Photo 1](./photos/P_20260106_162139.jpg)
 ![Photo 2](./photos/P_20260106_162200.jpg)
 
-**Modelo:** `TC3 All White`
+**Modelo:** `Presidente High-back`
 **Estado:** Excelente
 
 #### Destaques:
   - Revestimento em couro sintético premium com padrão diamante.
-  - Tecnologia AIR Tech para maior respirabilidade.
-  - Encosto ajustável até 180° e braços direcionais.
-  - Design elegante e minimalista que combina com qualquer setup.
+  - Design ergonômico com encosto alto e apoio de cabeça integrado.
+  - Braços articulados e ajuste de inclinação.
+  - Base cromada robusta com rodinhas de alta resistência.
 
-**Links:** [Site do Fabricante](https://thunderx3.com/product/tc3/)
+**Links:** [Amazon](https://www.amazon.com.br/dp/B0D1CCKQX3)
 
-Preço original: ~ R$ 1.300
+Preço original: R$ 1.699,99
 
-**À Venda por:** **~R$ 850**
+**À Venda por:** **~R$ 1.100**
 
 ---
 
@@ -815,6 +815,7 @@ Preço original: ~ R$ 1.800
 
 ### Boné de LED Capellux (Tratamento Capilar)
 ![Photo 1](./photos/P_20260108_104530.jpg)
+![Photo 2](./photos/P_20260108_104535.jpg)
 
 **Modelo:** `Boné Capellux`
 **Estado:** Excelente (Na caixa/estojo)
