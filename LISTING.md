@@ -1179,6 +1179,26 @@ Preço original: ~ R$ 40
 
 ---
 
+### Cafeteira Expresso Philco 20 Bar Inox Red
+![Photo 1](./photos/P_20260108_105723.jpg)
+
+**Modelo:** `PCF21`
+**Estado:** Excelente
+
+#### Destaques:
+  - Pressão de 20 Bar para um espresso com creme consistente.
+  - Design em aço inox vermelho moderno e durável.
+  - Bico vaporizador para leites e cappuccinos.
+  - Reservatório de água de 1.6L e placa aquecedora de xícaras.
+
+**Links:** [Site do Fabricante](https://philco.com.br/cafeteira-philco-pcf21-red-20-bar-053901051/p)
+
+Preço original: ~ R$ 600
+
+**À Venda por:** **~R$ 380**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
