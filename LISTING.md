@@ -1389,6 +1389,62 @@ Preço original: R$ 2.184,76
 
 ---
 
+### Projetor de Galáxia Astronauta Urso
+![Photo 1](./photos/P_20260108_151752.jpg)
+
+**Modelo:** `Bear Astronaut`
+**Estado:** Excelente
+
+#### Destaques:
+  - Design fofo de urso astronauta com cabeça magnética ajustável em 360°.
+  - Projeta nebulosas coloridas e estrelas (laser verde) com múltiplos modos e cores.
+  - Acompanha controle remoto para ajuste de brilho, velocidade e temporizador.
+  - Alimentação via USB, perfeito para criar um ambiente relaxante ou decorar o setup.
+
+Preço original: ~ R$ 120
+
+**À Venda por:** **~R$ 70**
+
+---
+
+### Escultura Self Made Man (30cm)
+![Photo 1](./photos/P_20260108_151752.jpg)
+
+**Modelo:** `Self Made Man (Cobre)`
+**Estado:** Excelente
+
+#### Destaques:
+  - Estátua inspiradora que representa o homem esculpindo seu próprio futuro.
+  - Acabamento refinado na cor cobre com detalhes realistas.
+  - Altura aproximada de 30cm, ideal para decoração de escritórios ou estantes.
+  - Peça robusta e elegante que simboliza autossuperação.
+
+Preço original: ~ R$ 180
+
+**À Venda por:** **~R$ 110**
+
+---
+
+### Ventilador de Mesa Philco Mega Turbo 40
+![Photo 1](./photos/P_20260108_151800.jpg)
+
+**Modelo:** `Mega Turbo 40`
+**Estado:** Excelente
+
+#### Destaques:
+  - Hélice de 40cm com 6 pás, garantindo alto fluxo de ar.
+  - 3 velocidades ajustáveis para diferentes necessidades.
+  - Sistema de oscilação horizontal automática e inclinação vertical regulável.
+  - Grade plástica removível que facilita a limpeza e manutenção.
+
+**Links:** [Site do Fabricante](https://philco.com.br/)
+
+Preço original: ~ R$ 250
+
+**À Venda por:** **~R$ 140**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 

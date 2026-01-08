@@ -48,7 +48,7 @@ done < "$tmp_map"
 unmatched=()
 in_category=0
 echo "<section class=\"index\">" >> "$tmp_fragment"
-echo "<h2>Index</h2>" >> "$tmp_fragment"
+echo "<h2 id=\"index\">Index</h2>" >> "$tmp_fragment"
 while IFS= read -r line; do
   if [[ "$line" =~ ^##\  ]]; then
     if (( in_category )); then
@@ -134,5 +134,18 @@ awk '
   }
 ' "$tmp_fragment" index.html > "$tmp_index"
 mv "$tmp_index" index.html
+
+# Add back-to-index links inside item headers.
+tmp_top="$(mktemp)"
+awk '
+  {
+    line=$0
+    if (match(line, /<h3 id="[^"]+">/)) {
+      sub(/<h3 id="[^"]+">/, "&<a class=\"back-to-index\" href=\"#index\">⬆️</a> ", line)
+    }
+    print line
+  }
+' index.html > "$tmp_top"
+mv "$tmp_top" index.html
 
 echo "index.html regenerated successfully."

@@ -30,6 +30,7 @@
 - Light Bar para Monitor Baseus i-wok 2 (tags: #iluminacao #monitor #usb-c #setup #baseus)
 - Cubo de LED Infinito (Infinity 4) (tags: #led #decoracao #setup #luz #geometrico)
 - Barras de LED Rítmicas RGB (Sound Control - Par) (tags: #led #rgb #sound #setup #portatil)
+- Projetor de Galáxia Astronauta Urso (tags: #projetor #galaxia #led #astronauta #decoracao)
 
 ## Casa e Cozinha
 - Lava e Seca Samsung WD11A EcoBubble 11kg (Inox Look) (tags: #lavaroupa #secadora #samsung #inox #ecobubble)
@@ -46,6 +47,7 @@
 - Cinzeiro Telescópio em Metal (Prata) (tags: #cinzeiro #metal #casa #decoracao #prata)
 - Afiador de Facas Profissional 3 em 1 (tags: #afiador #facas #cozinha #profissional #lamina)
 - Cafeteira Expresso Philco 20 Bar Inox Red (tags: #cafeteira #expresso #philco #cozinha #inox)
+- Ventilador de Mesa Philco Mega Turbo 40 (tags: #ventilador #philco #verao #casa #mesa)
 
 ## Moveis e Decoracao
 - Cadeira Presidente Ergonômica Yamasoro (Branca) (tags: #cadeira #ergonomica #office #branca #conforto)
@@ -57,6 +59,7 @@
 - Prateleira Decorativa em Madeira (Suporte Preto) (tags: #prateleira #madeira #decoracao #suporte #preto)
 - Tambor Decorativo Ferrari (Customizado) (tags: #decoracao #ferrari #tambor #customizado #tema)
 - Difusor e Umidificador de Ambientes (Branco) (tags: #difusor #umidificador #aroma #casa #branco)
+- Escultura Self Made Man (30cm) (tags: #escultura #decoracao #arte #estatua #escritorio)
 
 ## Organizacao e Escritorio
 - Fragmentadora de Papel Aurora AS600S (tags: #fragmentadora #office #papel #cartoes #compacta)

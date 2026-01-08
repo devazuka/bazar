@@ -131,6 +131,12 @@ p, ul, pre, iframe {
   padding: 12px 18px;
 }
 
+.back-to-index {
+  border-bottom: none;
+  font-size: 1.1rem;
+  margin-right: 10px;
+}
+
 iframe {
   height: 480px;
   display: block;
