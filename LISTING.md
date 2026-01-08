@@ -914,6 +914,42 @@ Preço original: ~ R$ 180 (Tripé + Suporte)
 
 ---
 
+### Cubo de LED Infinito (Infinity 4)
+![Photo 1](./photos/P_20260108_104915.jpg)
+
+**Modelo:** `Infinity 4`
+**Estado:** Excelente
+
+#### Destaques:
+  - Efeito visual de profundidade com espelhos infinitos.
+  - Iluminação LED interna com padrões geométricos.
+  - Design compacto e decorativo.
+  - Ideal para iluminação de ambiente ou setup.
+
+Preço original: ~ R$ 180
+
+**À Venda por:** **~R$ 100**
+
+---
+
+### Barras de LED Rítmicas RGB (Sound Control - Par)
+![Photo 1](./photos/P_20260108_104957.jpg)
+
+**Modelo:** `RGB Sound Control Light`
+**Estado:** Excelente
+
+#### Destaques:
+  - Captura de som por microfone integrado que reage ao ritmo da música.
+  - 32 LEDs de alta luminosidade com múltiplos modos de cores e padrões.
+  - Bateria interna recarregável (portátil) ou alimentação via USB-C.
+  - Kit com duas unidades inclusas (uma com acabamento branco e uma preto).
+
+Preço original: ~ R$ 140 (O par)
+
+**À Venda por:** **~R$ 80**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
