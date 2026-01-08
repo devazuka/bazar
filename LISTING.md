@@ -1445,6 +1445,27 @@ Preço original: ~ R$ 250
 
 ---
 
+### Óculos de Áudio JBL Soundgear Frames
+![Photo 1](./photos/P_20260108_151853.jpg)
+
+**Modelo:** `Soundgear Frames`
+**Estado:** Excelente (Na caixa)
+
+#### Destaques:
+  - Tecnologia JBL OpenSound: Áudio imersivo sem isolar os sons do ambiente.
+  - Chamadas Hands-free: Microfones integrados para conversas nítidas e comandos de voz.
+  - Bateria de Longa Duração: Até 8 horas de reprodução com carregamento rápido.
+  - Resistência IP54: Proteção contra suor e respingos de água, ideal para uso diário.
+  - Design Elegante e Confortável: Estilo clássico com acabamento premium e estojo incluso.
+
+**Links:** [Site do Fabricante](https://www.jbl.com.br/oculos-de-sol-com-audio/SOUNDGEAR-FRAMES.html)
+
+Preço original: ~ R$ 800
+
+**À Venda por:** **~R$ 500**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
