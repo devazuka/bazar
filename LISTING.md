@@ -1530,7 +1530,7 @@ Preço original: ~ R$ 215
 ---
 
 ### Cadeira Eames DSW Rosa
-![Photo 1](./photos/P_20260108_152156.jpg)
+![Photo 1](./photos/P_20260108_152311.jpg)
 
 **Modelo:** `Eames DSW`
 **Estado:** Excelente
@@ -1563,7 +1563,7 @@ Preço original: ~ R$ 180
 ---
 
 ### Placa Decorativa Rústica (Música, Risos, Tempo, Sonhos, Amor)
-![Photo 1](./photos/P_20260108_152311.jpg)
+![Photo 1](./photos/P_20260108_152323.jpg)
 
 **Estado:** Excelente
 
@@ -1578,6 +1578,7 @@ Preço original: ~ R$ 180
 
 ### Secador de Cabelo Compacto (Vermelho)
 ![Photo 1](./photos/P_20260108_152317.jpg)
+![Photo 2](./photos/P_20260108_152345.jpg)
 
 **Estado:** Excelente
 
@@ -1591,9 +1592,9 @@ Preço original: ~ R$ 180
 ---
 
 ### Coleção de Bonés (Nacional/Senna, Superman, BSB City)
-![Photo 1](./photos/P_20260108_152323.jpg)
-![Photo 2](./photos/P_20260108_152345.jpg)
 ![Photo 3](./photos/P_20260108_152412.jpg)
+![Photo 1](./photos/P_20260108_152423.jpg)
+![Photo 2](./photos/P_20260108_152428.jpg)
 
 **Modelos:** `Nacional (Ayrton Senna)`, `Superman (DC)`, `BSB City Half Marathon`
 **Estado:** Excelente/Novos
@@ -1608,8 +1609,7 @@ Preço original: ~ R$ 180
 ---
 
 ### Óculos de Grau Chilli Beans (Armação Preta)
-![Photo 1](./photos/P_20260108_152423.jpg)
-![Photo 2](./photos/P_20260108_152428.jpg)
+![Photo 1](./photos/P_20260108_152156.jpg)
 
 **Marca:** `Chilli Beans`
 **Estado:** Excelente
