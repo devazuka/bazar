@@ -813,6 +813,26 @@ Preço original: ~ R$ 1.800
 ---
 
 
+### Boné de LED Capellux (Tratamento Capilar)
+![Photo 1](./photos/P_20260108_104530.jpg)
+
+**Modelo:** `Boné Capellux`
+**Estado:** Excelente (Na caixa/estojo)
+
+#### Destaques:
+  - Dispositivo de fototerapia para tratamento de queda de cabelo e melhora da saúde capilar.
+  - Combinação de LEDs e lasers de baixa intensidade.
+  - Inclui estojo de transporte premium, fonte de alimentação e massageador de couro cabeludo.
+  - Recomendado para uso doméstico diário.
+
+**Links:** [Site do Fabricante](https://capellux.com.br/)
+
+Preço original: ~ R$ 1.500
+
+**À Venda por:** **~R$ 950**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
