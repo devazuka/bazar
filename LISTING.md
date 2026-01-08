@@ -1159,6 +1159,26 @@ Preço original: ~ R$ 1.200
 
 ---
 
+### Afiador de Facas Profissional 3 em 1
+![Photo 1](./photos/P_20260108_105404.jpg)
+
+**Modelo:** `Relet (3 Estágios)`
+**Estado:** Como Novo (Na caixa)
+
+#### Destaques:
+  - Sistema de afiação em 3 estágios: Preparar (Diamantado), Afiar (Tungstênio) e Polir (Cerâmica).
+  - Cabo ergonômico e base antiderrapante para maior segurança e estabilidade.
+  - Design moderno e compacto, fácil de usar e guardar.
+  - Indicado para facas de aço inoxidável, adagas e tesouras.
+
+**Links:** [Mercado Livre](https://lista.mercadolivre.com.br/afiador-facas-3-em-1-profissional)
+
+Preço original: ~ R$ 40
+
+**À Venda por:** **~R$ 25**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
