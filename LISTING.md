@@ -1271,6 +1271,26 @@ Preço original: ~ R$ 350
 
 ---
 
+### PlayStation 5 Slim (Edição Digital) + 2 Jogos + Controle Extra + Dock
+![Photo 1](./photos/P_20260108_114437.jpg)
+
+**Modelo:** `PS5 Slim Digital (CFI-2014)`
+**Estado:** Excelente (Na caixa)
+
+#### Destaques:
+  - Modelo Slim com 1TB de SSD e design compacto.
+  - Versão Digital Edition (sem leitor de discos).
+  - Inclui códigos para os jogos Ratchet & Clank: Em Uma Outra Dimensão e Returnal.
+  - Combo completo: Acompanha controle extra Midnight Black e base de carregamento duplo OIVO com indicadores LED.
+
+**Links:** [PlayStation Brasil](https://www.playstation.com/pt-br/ps5/) | [OIVO Design](https://www.oivodesign.com/)
+
+Preço original: ~ R$ 5.100 (Combo)
+
+**À Venda por:** **~R$ 3.200**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
