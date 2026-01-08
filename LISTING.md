@@ -1253,6 +1253,24 @@ Preço original: ~ R$ 80
 
 ---
 
+### Tambor Decorativo Ferrari (Customizado)
+![Photo 1](./photos/P_20260108_113422.jpg)
+
+**Modelo:** `Tambor Decorativo`
+**Estado:** Excelente
+
+#### Destaques:
+  - Design temático Ferrari na cor vermelha clássica.
+  - Acabamento de alta qualidade com logomarca icônica.
+  - Peça de decoração versátil para salas, bares, áreas gourmet ou oficinas.
+  - Pode ser utilizado como mesa de apoio ou elemento decorativo de destaque.
+
+Preço original: ~ R$ 350
+
+**À Venda por:** **~R$ 220**
+
+---
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
