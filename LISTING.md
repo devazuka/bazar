@@ -4,6 +4,7 @@ Este bazar foi organizado com os itens que pertenciam ao meu irmão, que infeliz
 
 ---
 
+
 ### Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever)
 ![Photo 1](./photos/P_20260106_143929.jpg)
 ![Photo 2](./photos/P_20260106_143935.jpg)
@@ -25,6 +26,7 @@ Preço original: ~ R$ 850
 **À Venda por:** **~R$ 550**
 
 ---
+
 ### Monitores de Áudio Edifier MR4 (Branco)
 ![Photo 1](./photos/P_20260106_143939.jpg)
 ![Photo 2](./photos/P_20260106_144016.jpg)
@@ -45,6 +47,7 @@ Preço original: ~ R$ 1.000
 **À Venda por:** **~R$ 700**
 
 ---
+
 ### Patinete Elétrico Polares T10pro (800W)
 ![Photo 1](./photos/P_20260106_144044.jpg)
 
@@ -64,6 +67,7 @@ Preço original: R$ 3.509,98
 **À Venda por:** **~R$ 2.200**
 
 ---
+
 ### Fun-Tech Lab 1:64 Windsible Desktop Wind Tunnel
 ![Photo 1](./photos/P_20260106_144132.jpg)
 
@@ -83,6 +87,7 @@ Preço original: ~ R$ 1.400 (Importado, US$ 239)
 **À Venda por:** **~R$ 900**
 
 ---
+
 ### Runsible - Dinamômetro para Miniaturas 1:64
 ![Photo 1](./photos/P_20260106_144155.jpg)
 
@@ -102,6 +107,7 @@ Preço original: ~ R$ 400 (Importado)
 **À Venda por:** **~R$ 250**
 
 ---
+
 ### Mesa Digitalizadora Huion Inspiroy
 ![Photo 9](./photos/P_20260106_145134.jpg)
 ![Photo 10](./photos/P_20260106_145142.jpg)
@@ -122,6 +128,7 @@ Preço original: ~ R$ 550
 **À Venda por:** **~R$ 300**
 
 ---
+
 ### Light Bar para Monitor Baseus i-wok 2
 ![Photo 1](./photos/P_20260106_144442.jpg)
 
@@ -141,6 +148,7 @@ Preço original: ~ R$ 280
 **À Venda por:** **~R$ 160**
 
 ---
+
 ### Compressor de Ar Portátil Baseus Energy Source
 ![Photo 1](./photos/P_20260106_145612.jpg)
 ![Photo 2](./photos/P_20260106_145614.jpg)
@@ -161,6 +169,7 @@ Preço original: ~ R$ 350
 **À Venda por:** **~R$ 220**
 
 ---
+
 ### Auxiliar de Sono Dreamate D6 TENS
 ![Photo 1](./photos/P_20260106_150417.jpg)
 ![Photo 2](./photos/P_20260106_150430.jpg)
@@ -179,6 +188,7 @@ Preço original: ~ R$ 300 (Importado)
 **À Venda por:** **~R$ 180**
 
 ---
+
 ### Balança Digital de Alta Precisão Bolida
 ![Photo 3](./photos/P_20260106_150612.jpg)
 ![Photo 4](./photos/P_20260106_150720.jpg)
@@ -197,6 +207,7 @@ Preço original: ~ R$ 80
 **À Venda por:** **~R$ 45**
 
 ---
+
 ### Cadeira Gamer Ergonômica ThunderX3 (Branca)
 ![Photo 1](./photos/P_20260106_162139.jpg)
 ![Photo 2](./photos/P_20260106_162200.jpg)
@@ -217,6 +228,7 @@ Preço original: ~ R$ 1.300
 **À Venda por:** **~R$ 850**
 
 ---
+
 ### Cadeira Decorativa Wingback Capitonê (Pink/Veludo)
 ![Photo 3](./photos/P_20260106_162240.jpg)
 ![Photo 4](./photos/P_20260106_162252.jpg)
@@ -235,6 +247,7 @@ Preço original: ~ R$ 650
 **À Venda por:** **~R$ 400**
 
 ---
+
 ### Escudo Capitão América (Réplica Colecionável)
 ![Photo 5](./photos/P_20260106_162302.jpg)
 ![Photo 6](./photos/P_20260106_162316.jpg)
@@ -253,6 +266,7 @@ Preço original: ~ R$ 800
 **À Venda por:** **~R$ 500**
 
 ---
+
 ### Lava e Seca Samsung WD11A EcoBubble 11kg (Inox Look)
 ![Photo 1](./photos/P_20260107_112731.jpg)
 ![Photo 2](./photos/P_20260107_112736.jpg)
@@ -274,6 +288,7 @@ Preço original: R$ 4.124,47
 **À Venda por:** **~R$ 2.800**
 
 ---
+
 ### Fogão 4 Bocas Electrolux Prata Efficient (FE4GS)
 ![Photo 1](./photos/P_20260107_113302.jpg)
 ![Photo 2](./photos/P_20260107_113320.jpg)
@@ -294,6 +309,7 @@ Preço original: R$ 2.048,76
 **À Venda por:** **~R$ 1.400**
 
 ---
+
 ### Smart TV Portátil LG StanbyME 27"
 ![Photo 1](./photos/P_20260107_113459.jpg)
 ![Photo 2](./photos/P_20260107_113539.jpg)
@@ -315,6 +331,7 @@ Preço original: ~ R$ 6.800
 **À Venda por:** **~R$ 4.200**
 
 ---
+
 ### Tábua de Corte DOMEZ (Dupla Face)
 ![Photo 1](./photos/P_20260107_113341.jpg)
 ![Photo 2](./photos/P_20260107_113354.jpg)
@@ -335,6 +352,7 @@ Preço original: R$ 90,00
 **À Venda por:** **~R$ 70**
 
 ---
+
 ### Balança Digital Profissional Modus Pro-50
 ![Photo 1](./photos/P_20260107_171837.jpg)
 
@@ -354,6 +372,7 @@ Preço original: R$ 144,32
 **À Venda por:** **~R$ 100**
 
 ---
+
 ### Microscópio Eletrônico Digital
 ![Photo 2](./photos/P_20260107_171842.jpg)
 
@@ -371,6 +390,7 @@ Preço original: ~ R$ 180
 **À Venda por:** **~R$ 110**
 
 ---
+
 ### Mesa Motorizada Sit/Stand (Ajuste de Altura)
 ![Photo 3](./photos/P_20260107_171848.jpg)
 
@@ -388,12 +408,12 @@ Preço original: ~ R$ 1.490
 **À Venda por:** **~R$ 1.000**
 
 ---
-### Kit Lixeiras Automáticas Inox (50L + 15L Banheiro)
-![Photo 4](./photos/P_20260107_171853.jpg)
+
+### Lixeiras Automáticas Inox (50L)
 ![Photo 5](./photos/P_20260107_171857.jpg)
 
-**Modelo:** `LIX-009 + LK2115`
-**Estado:** Excelente (2 unidades)
+**Modelo:** `LIX-009`
+**Estado:** Excelente
 
 #### Destaques:
   - Abertura automática por sensor de proximidade (sem toque).
@@ -401,11 +421,30 @@ Preço original: ~ R$ 1.490
   - Funcionamento a pilhas ou bateria recarregável.
   - Vedação eficiente para evitar odores.
 
-Preço original: R$ 604,92
+Preço original: R$ 489,92
 
-**À Venda por:** **~R$ 350 (Kit)**
+**À Venda por:** **~R$ 320**
 
 ---
+
+### Lixeiras Automáticas Banheiro (15L)
+![Photo 4](./photos/P_20260107_171853.jpg)
+
+**Modelo:** `LK2115`
+**Estado:** Excelente
+
+#### Destaques:
+  - Abertura automática por sensor de proximidade (sem toque).
+  - Design compacto e discreto.
+  - Funcionamento a pilhas ou bateria recarregável.
+  - Vedação eficiente para evitar odores.
+
+Preço original: R$ 115,00
+
+**À Venda por:** **~R$ 80**
+
+---
+
 ### Escada Articulada (Step Ladder)
 ![Photo 1](./photos/P_20260107_172046.jpg)
 
@@ -423,24 +462,7 @@ Preço original: ~ R$ 250
 **À Venda por:** **~R$ 140**
 
 ---
-### Huion Keydial Mini (Teclado de Atalhos)
-![Photo 1](./photos/P_20260108_002348.jpg)
 
-**Modelo:** `Keydial Mini (K20)`
-**Estado:** Excelente (Na caixa)
-
-#### Destaques:
-  - Controle remoto de atalhos para mesas digitalizadoras e softwares criativos.
-  - Conexão Bluetooth 5.0.
-  - Dial programável e teclas mecânicas.
-
-**Links:** [Site do Fabricante](https://www.huion.com/accessories/keydial-mini-k20.html)
-
-Preço original: ~ R$ 400
-
-**À Venda por:** **~R$ 250**
-
----
 ### XP-Pen Wireless Shortcut Remote (Atalhos)
 ![Photo 1](./photos/P_20260108_002707.jpg)
 
@@ -460,6 +482,7 @@ Preço original: ~ R$ 300 (Importado)
 **À Venda por:** **~R$ 180**
 
 ---
+
 ### Kindle Oasis (E-reader Premium)
 ![Photo 2](./photos/P_20260108_002836.jpg)
 
@@ -479,6 +502,7 @@ Preço original: ~ R$ 1.300
 **À Venda por:** **~R$ 850**
 
 ---
+
 ### Coleção de Relógios (Curren, ChilliBeans, etc)
 ![Photo 1](./photos/P_20260108_003048.jpg)
 
@@ -493,6 +517,7 @@ Preço original: ~ R$ 1.300
 **À Venda por:** **A Combinar**
 
 ---
+
 ### Smartwatch Huawei Watch GT 5 (46mm)
 ![Photo 1](./photos/P_20260108_003742.jpg)
 
@@ -512,6 +537,7 @@ Preço original: R$ 1.519,30
 **À Venda por:** **~R$ 1.100**
 
 ---
+
 ### Apple Magic Trackpad (Branco - USB-C)
 ![Photo 1](./photos/P_20260108_004828.jpg)
 
@@ -530,6 +556,7 @@ Preço original: ~ R$ 1.000
 **À Venda por:** **~R$ 700**
 
 ---
+
 ### Apple AirPods Max (Sky Blue)
 ![Photo 1](./photos/P_20260108_005000.jpg)
 
@@ -549,6 +576,7 @@ Preço original: R$ 6.590,00
 **À Venda por:** **~R$ 4.500**
 
 ---
+
 ### Apple Watch Ultra 2 (GPS + Cellular)
 ![Photo 1](./photos/P_20260108_005209.jpg)
 
@@ -568,6 +596,7 @@ Preço original: R$ 6.999,00
 **À Venda por:** **~R$ 4.800**
 
 ---
+
 ### iMac 24" M3 (Azul) + Hub USB (Combo)
 ![Photo 2](./photos/P_20260108_005443.jpg)
 
@@ -588,6 +617,7 @@ Preço original: ~ R$ 12.000+ (Com acessórios)
 **À Venda por:** **~R$ 9.000**
 
 ---
+
 ### iMac (Modelo 2017)
 ![Photo 2](./photos/P_20260108_005636.jpg)
 
@@ -607,6 +637,7 @@ Preço original: ~ R$ 6.000 (Na época)
 **À Venda por:** **~R$ 3.000**
 
 ---
+
 ### iPhone 17 Pro Max
 ![Photo 2](./photos/P_20260108_010353.jpg)
 
@@ -625,6 +656,7 @@ Preço original: ~ R$ 9.000+
 **À Venda por:** **~R$ 8.000**
 
 ---
+
 ### Power Bank 22.5W (Com Cabos Integrados)
 ![Photo 2](./photos/P_20260108_010443.jpg)
 
@@ -642,6 +674,7 @@ Preço original: ~ R$ 200
 **À Venda por:** **~R$ 120**
 
 ---
+
 ### Carregador Sem Fio Dobrável FAM
 ![Photo 3](./photos/P_20260108_010545.jpg)
 
@@ -659,6 +692,7 @@ Preço original: ~ R$ 150
 **À Venda por:** **~R$ 80**
 
 ---
+
 ### Apple AirTags (Kit com 3)
 ![Photo 1](./photos/P_20260108_002607.jpg)
 
@@ -678,6 +712,7 @@ Preço original: ~ R$ 375 (cada) / ~ R$ 1.100 (os 3)
 **À Venda por:** **~R$ 750**
 
 ---
+
 ### Gravador de Voz IA Plaud Note
 ![Photo 1](./photos/P_20260108_002639.jpg)
 
@@ -697,6 +732,7 @@ Preço original: R$ 1.278,90
 **À Venda por:** **~R$ 900**
 
 ---
+
 ### Kit de Beleza e Bem-Estar (Lotes)
 ![Photo 1](./photos/P_20260108_002546.jpg)
 
@@ -715,6 +751,7 @@ Preço original: ~ R$ 400+ (Lote)
 **À Venda por:** **~R$ 200 (Lote)**
 
 ---
+
 ### AirPods Pro (3ª Geração) - USB-C
 ![Photo 1](./photos/P_20260108_002455.jpg)
 
@@ -736,6 +773,7 @@ Preço original: ~ R$ 2.599
 **À Venda por:** **~R$ 1.900**
 
 ---
+
 ### AirPods Pro (2ª Geração)
 ![Photo 1](./photos/P_20260108_002348.jpg)
 
@@ -756,6 +794,7 @@ Preço original: ~ R$ 1.800
 
 ---
 
+
 ### E muito mais...
 
 Além dos itens listados aqui, temos uma **coleção enorme de livros** (principalmente não-ficção e autoajuda) e diversos outros objetos que ainda não foram catalogados. 
@@ -774,6 +813,7 @@ CEP: 71015-095
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d959.6447825844916!2d-47.988012640492514!3d-15.826130786267797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3135c52e0d1f%3A0x9f98a8a24441cab6!2sQE%2018%20BLOCO%20I%20EDIFICIO%20PORTO%20SEGURO!5e0!3m2!1sfr!2sbr!4v1767851762610!5m2!1sfr!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
+
 
 <p style="text-align: center; margin-top: 40px; background: transparent; border: none; font-style: italic; color: var(--muted); width: 100%;">
   Obrigado por apoiar nossa família neste momento.

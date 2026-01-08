@@ -254,3 +254,100 @@ p:has(svg) {
   border: none;
   padding: 0;
 }
+
+@media print {
+  @page {
+    size: portrait;
+    margin: 1cm;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  body {
+    background: var(--bg) !important;
+    font-size: 11pt;
+    line-height: 1.5;
+    display: block;
+    width: 100%;
+  }
+
+  body > * {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding-left: 1.5cm !important;
+    padding-right: 1.5cm !important;
+  }
+  
+  body > h1, 
+  body > p:nth-of-type(1), 
+  body > p:nth-of-type(2),
+  hr,
+  iframe,
+  p:has(svg) {
+    display: none !important;
+  }
+
+  h3 {
+    break-before: page;
+    margin-top: 0 !important;
+    padding-top: 1cm !important;
+    border-top: none !important;
+    background: var(--card) !important;
+  }
+
+  h3:first-of-type {
+    break-before: auto;
+  }
+
+  h3, h4, p, ul, figure, pre {
+    break-inside: avoid;
+    border-left: 1px solid var(--border) !important;
+    border-right: 1px solid var(--border) !important;
+    background-color: var(--card) !important;
+  }
+
+  p:has(+ hr), p:has(+ h3), ul:has(+ h3), pre:has(+ h3), p:last-child {
+    border-bottom: 1px solid var(--border) !important;
+    margin-bottom: 2cm !important; /* Space between items */
+    border-radius: 0 0 12px 12px !important;
+  }
+
+  img {
+    display: block !important;
+    max-width: 100% !important;
+    height: auto !important; /* Strictly maintain aspect ratio */
+    max-height: 10cm !important;
+    object-fit: contain !important;
+    margin: 0 auto !important;
+    box-shadow: none !important;
+    border-radius: 8px !important;
+  }
+
+  p:has(> img), .image-row {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    align-items: flex-start !important;
+    gap: 10px !important;
+    background-color: var(--card) !important;
+    padding: 10px !important;
+  }
+
+  p > img, .image-row img {
+    flex: 0 0 calc(50% - 10px) !important;
+    width: calc(50% - 10px) !important;
+    max-width: calc(50% - 10px) !important;
+    height: auto !important; /* Ensure aspect ratio is not broken by flexbox */
+  }
+
+  p > img:only-child, .image-row img:only-child {
+    flex: 0 0 80% !important;
+    width: 80% !important;
+    max-width: 80% !important;
+  }
+}
