@@ -19,7 +19,6 @@
 
 ## Computadores e Perifericos
 - Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever) (tags: #teclado #mecanico #retro #bluetooth #usb-c)
-- Mesa Digitalizadora Huion Inspiroy (tags: #tablet #desenho #caneta #criacao #usb)
 - XP-Pen Wireless Shortcut Remote (Atalhos) (tags: #atalhos #bluetooth #criacao #tablet #dial)
 - Suporte de Notebook Multiuso LH Móveis (Portátil/Dobrável) (tags: #suporte #notebook #portatil #dobravel #ergonomia)
 
@@ -32,7 +31,6 @@
 
 ## Casa e Cozinha
 - Tábua de Corte DOMEZ (Dupla Face) (tags: #tabua #cozinha #corte #duravel #gourmet)
-- Cesto de Roupa em Bambu Retangular (com Forro) (tags: #bambu #lavanderia #organizacao #decoracao #cesto)
 - Garrafa Filtro Portátil Stone Water (tags: #garrafa #filtro #portatil #agua #stonewater)
 - Garrafa Térmica Pavia 2.5L Unitermi (tags: #garrafa #termica #unitermi #pavia #bebidas)
 - Garrafa Térmica NRMEI 5L (tags: #garrafa #termica #bebidas #isotermica #nrmei)
@@ -42,15 +40,11 @@
 ## Moveis e Decoracao
 - Cadeira Presidente Ergonômica Yamasoro (Branca) (tags: #cadeira #ergonomica #office #branca #conforto)
 - Cadeira Decorativa Wingback Capitonê (Pink/Veludo) (tags: #poltrona #decoracao #veludo #retro #capitone)
-- Difusor e Umidificador de Ambientes (Branco) (tags: #difusor #umidificador #aroma #casa #branco)
 - Espelho Orgânico Diamond (Acabamento em Couro) (tags: #espelho #decoracao #organico #couro #parede)
 - Espelho Orgânico Grande (Fim de Corredor) (tags: #espelho #decoracao #organico #corredor #grande)
 
 ## Organizacao e Escritorio
 - Suporte de Leitura Ajustável em Madeira e Alumínio (tags: #leitura #suporte #madeira #aluminio #escritorio)
-
-## Ferramentas e Automotivo
-- Compressor de Ar Portátil Baseus Energy Source (tags: #compressor #portatil #carro #baseus #inflador)
 
 ## Saude e Beleza
 - Escova Elétrica Oral-B iO Series 9 (Preta) (tags: #beleza #saude #higiene #escova #io)
@@ -58,7 +52,6 @@
 - Boné de LED Capellux (Tratamento Capilar) (tags: #capilar #led #fototerapia #beleza #tratamento)
 - Kit de Beleza e Bem-Estar (Lotes) (tags: #skincare #bemestar #oleos #aromaterapia #kit)
 - Secador de Cabelo Compacto (Vermelho) (tags: #secador #beleza #cabelo #compacto #vermelho)
-- Máscara de Beleza LED de 7 cores (tags: #mascara #led #beleza #tratamento #facial)
 - Máquina de Terapia Digital TENS/EMS (tags: #tens #ems #terapia #saude #relaxamento)
 - Caneta Jato de Plasma (Removedor de Manchas e Verrugas) (tags: #beleza #saude #tratamento #plasma #estetica)
 
@@ -71,9 +64,6 @@
 - Fun-Tech Lab 1:64 Windsible Desktop Wind Tunnel (tags: #colecionavel #1_64 #hotwheels #aerodinamica #display)
 - Runsible - Dinamômetro para Miniaturas 1:64 (tags: #colecionavel #1_64 #hotwheels #dinamometro #display)
 - Miniaturas de Navios de Cruzeiro MSC (Seaview & Preziosa) (tags: #miniatura #colecionavel #navio #msc #cruzeiro)
-
-## Mobilidade
-- Patinete Elétrico Polares T10pro (800W) (tags: #patinete #eletrico #mobilidade #urbano #800w)
 
 ## Instrumentos e Medicao
 - Balança Digital de Alta Precisão Bolida (tags: #balanca #precisao #0_01g #medicao #compacta)
@@ -93,4 +83,3 @@
 ## Moda e Acessorios
 - Coleção de Bonés (Nacional/Senna, Superman, BSB City) (tags: #bones #colecao #acessorios #casual #estilo)
 - Óculos de Grau Chilli Beans (Armação Preta) (tags: #oculos #grau #chillibeans #armacao #preta)
-- Guarda-chuva Automático Fazzoletti (Preto) (tags: #acessorio #chuva #fazzoletti #automatico #preto)

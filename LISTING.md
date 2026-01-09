@@ -46,6 +46,7 @@ Preço original: ~ R$ 1.500
 
 ---
 
+<!--
 ### Patinete Elétrico Polares T10pro (800W)
 ![Photo 1](./photos/P_20260106_144044.jpg)
 
@@ -66,6 +67,7 @@ Preço original: R$ 3.509,98
 **À Venda por:** **~R$ 2.600**
 
 ---
+-->
 
 ### Fun-Tech Lab 1:64 Windsible Desktop Wind Tunnel
 ![Photo 1](./photos/P_20260106_144132.jpg)
@@ -107,6 +109,7 @@ Preço original: ~ R$ 400 (Importado)
 
 ---
 
+<!--
 ### Mesa Digitalizadora Huion Inspiroy
 ![Photo 9](./photos/P_20260106_145134.jpg)
 ![Photo 10](./photos/P_20260106_145142.jpg)
@@ -127,6 +130,7 @@ Preço original: ~ R$ 550
 **À Venda por:** **~R$ 300**
 
 ---
+-->
 
 ### Light Bar para Monitor Baseus i-wok 2
 ![Photo 1](./photos/P_20260106_144442.jpg)
@@ -148,6 +152,7 @@ Preço original: ~ R$ 280
 
 ---
 
+<!--
 ### Compressor de Ar Portátil Baseus Energy Source
 ![Photo 1](./photos/P_20260106_145612.jpg)
 ![Photo 2](./photos/P_20260106_145614.jpg)
@@ -168,6 +173,7 @@ Preço original: ~ R$ 350
 **À Venda por:** **~R$ 220**
 
 ---
+-->
 
 ### Auxiliar de Sono Dreamate D6 TENS
 ![Photo 1](./photos/P_20260106_150417.jpg)
@@ -963,6 +969,7 @@ Preço original: ~ R$ 140 (O par)
 ---
 -->
 
+<!--
 ### Cesto de Roupa em Bambu Retangular (com Forro)
 ![Photo 1](./photos/P_20260108_105040.jpg)
 ![Photo 2](./photos/P_20260108_105052.jpg)
@@ -981,6 +988,7 @@ Preço original: ~ R$ 100
 **À Venda por:** **~R$ 60**
 
 ---
+-->
 
 ### Kit de Halteres de Ferro Revestidos (10kg e 15kg)
 ![Photo 1](./photos/P_20260108_105117.jpg)
@@ -1236,6 +1244,7 @@ Preço original: ~ R$ 600
 
 ---
 
+<!--
 ### Difusor e Umidificador de Ambientes (Branco)
 ![Photo 1](./photos/P_20260108_110705.jpg)
 ![Photo 2](./photos/P_20260108_110710.jpg)
@@ -1253,6 +1262,7 @@ Preço original: ~ R$ 45
 **À Venda por:** **~R$ 20**
 
 ---
+-->
 
 <!--
 ### Guitarra Elétrica Queen's (Estilo Stratocaster - Vermelha)
@@ -1710,6 +1720,7 @@ Preço original: ~ R$ 180
 
 ---
 
+<!--
 ### Guarda-chuva Automático Fazzoletti (Preto)
 ![Photo 1](./photos/P_20260108_152156.jpg)
 
@@ -1727,6 +1738,7 @@ Preço original: ~ R$ 130
 **À Venda por:** **~R$ 75**
 
 ---
+-->
 
 ### Caneta Jato de Plasma (Removedor de Manchas e Verrugas)
 ![Photo 1](./photos/P_20260108_154943.jpg)
@@ -1746,6 +1758,7 @@ Preço original: ~ R$ 120
 
 ---
 
+<!--
 ### Máscara de Beleza LED de 7 cores
 ![Photo 1](./photos/P_20260108_162553.jpg)
 
@@ -1763,6 +1776,7 @@ Preço original: ~ R$ 140
 **À Venda por:** **~R$ 90**
 
 ---
+-->
 
 <!-- 
 ### Kit de Ventosaterapia Zenai Pro Series
