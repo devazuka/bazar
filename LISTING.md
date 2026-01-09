@@ -46,7 +46,6 @@ Preço original: ~ R$ 1.500
 
 ---
 
-<!--
 ### Patinete Elétrico Polares T10pro (800W)
 ![Photo 1](./photos/P_20260106_144044.jpg)
 
@@ -67,7 +66,6 @@ Preço original: R$ 3.509,98
 **À Venda por:** **~R$ 2.600**
 
 ---
--->
 
 ### Fun-Tech Lab 1:64 Windsible Desktop Wind Tunnel
 ![Photo 1](./photos/P_20260106_144132.jpg)
@@ -109,7 +107,6 @@ Preço original: ~ R$ 400 (Importado)
 
 ---
 
-<!--
 ### Mesa Digitalizadora Huion Inspiroy
 ![Photo 9](./photos/P_20260106_145134.jpg)
 ![Photo 10](./photos/P_20260106_145142.jpg)
@@ -130,7 +127,6 @@ Preço original: ~ R$ 550
 **À Venda por:** **~R$ 300**
 
 ---
--->
 
 ### Light Bar para Monitor Baseus i-wok 2
 ![Photo 1](./photos/P_20260106_144442.jpg)
@@ -152,7 +148,6 @@ Preço original: ~ R$ 280
 
 ---
 
-<!--
 ### Compressor de Ar Portátil Baseus Energy Source
 ![Photo 1](./photos/P_20260106_145612.jpg)
 ![Photo 2](./photos/P_20260106_145614.jpg)
@@ -173,7 +168,6 @@ Preço original: ~ R$ 350
 **À Venda por:** **~R$ 220**
 
 ---
--->
 
 ### Auxiliar de Sono Dreamate D6 TENS
 ![Photo 1](./photos/P_20260106_150417.jpg)
@@ -253,7 +247,6 @@ Preço original: ~ R$ 650
 
 ---
 
-<!--
 ### Escudo Capitão América (Réplica Colecionável)
 ![Photo 5](./photos/P_20260106_162302.jpg)
 ![Photo 6](./photos/P_20260106_162316.jpg)
@@ -272,7 +265,6 @@ Preço original: ~ R$ 800
 **À Venda por:** **~R$ 500**
 
 ---
--->
 
 <!--
 ### Lava e Seca Samsung WD11A EcoBubble 11kg (Inox Look)
@@ -417,7 +409,6 @@ Preço original: ~ R$ 1.490
 
 ---
 -->
-<!--
 ### Lixeiras Automáticas Inox (50L)
 ![Photo 5](./photos/P_20260107_171857.jpg)
 
@@ -453,7 +444,6 @@ Preço original: R$ 115,00
 **À Venda por:** **~R$ 80**
 
 ---
--->
 
 <!--
 ### Fragmentadora de Papel Aurora AS600S
@@ -606,6 +596,7 @@ Preço original: R$ 6.590,00
 
 ---
 
+<!--
 ### Apple Watch Ultra 2 (GPS + Cellular)
 ![Photo 1](./photos/P_20260108_005209.jpg)
 
@@ -625,6 +616,7 @@ Preço original: R$ 6.999,00
 **À Venda por:** **~R$ 4.800**
 
 ---
+-->
 
 ### iMac 24" M3 (Azul) + Hub USB (Combo)
 ![Photo 2](./photos/P_20260108_005443.jpg)
@@ -667,6 +659,7 @@ Preço original: ~ R$ 16.000 (Na época)
 
 ---
 
+<!--
 ### iPhone 17 Pro Max
 ![Photo 2](./photos/P_20260108_010353.jpg)
 
@@ -685,6 +678,7 @@ Preço original: R$ 14.000
 **À Venda por:** **~R$ 9.600**
 
 ---
+-->
 
 <!-- 
 ### Power Bank 22.5W (Com Cabos Integrados)
@@ -890,7 +884,6 @@ Preço original: R$ 949,05
 
 ---
 
-<!--
 ### Tripé Profissional 1,80m + Suporte Ulanzi ST-06S
 ![Photo 1](./photos/P_20260108_104858.jpg)
 
@@ -928,7 +921,6 @@ Preço original: ~ R$ 60
 **À Venda por:** **~R$ 35**
 
 ---
--->
 
 <!-- 
 ### Cubo de LED Infinito (Infinity 4)
@@ -949,7 +941,6 @@ Preço original: ~ R$ 180
 
 ---
  -->
-<!--
 ### Barras de LED Rítmicas RGB (Sound Control - Par)
 ![Photo 1](./photos/P_20260108_104957.jpg)
 
@@ -967,9 +958,7 @@ Preço original: ~ R$ 140 (O par)
 **À Venda por:** **~R$ 80**
 
 ---
--->
 
-<!--
 ### Cesto de Roupa em Bambu Retangular (com Forro)
 ![Photo 1](./photos/P_20260108_105040.jpg)
 ![Photo 2](./photos/P_20260108_105052.jpg)
@@ -988,7 +977,6 @@ Preço original: ~ R$ 100
 **À Venda por:** **~R$ 60**
 
 ---
--->
 
 ### Kit de Halteres de Ferro Revestidos (10kg e 15kg)
 ![Photo 1](./photos/P_20260108_105117.jpg)
@@ -1046,7 +1034,6 @@ Preço original: R$ 2.299,00
 
 ---
 
-<!--
 ### Kit de Treino 4 em 1 Domyos (Roda Abdominal e Apoio de Flexão)
 ![Photo 1](./photos/P_20260108_105135.jpg)
 
@@ -1084,7 +1071,6 @@ Preço original: ~ R$ 80
 **À Venda por:** **~R$ 50**
 
 ---
--->
 
 ### Garrafa Filtro Portátil Stone Water
 ![Photo 1](./photos/P_20260108_105140.jpg)
@@ -1145,7 +1131,6 @@ Preço original: R$ 169,00
 
 ---
  -->
-<!--
 ### Puffs Cubo em Corino (Conjunto com 5 unidades)
 ![Photo 1](./photos/P_20260108_105233.jpg)
 
@@ -1182,8 +1167,6 @@ Preço original: ~ R$ 180
 
 **À Venda por:** **~R$ 110**
 
----
--->
 <!--
 ---
 ### Cadeira Presidente Ergonômica Mesh (Preta)
@@ -1224,6 +1207,7 @@ Preço original: ~ R$ 40
 
 ---
 
+<!--
 ### Cafeteira Expresso Philco 20 Bar Inox Red
 ![Photo 1](./photos/P_20260108_105723.jpg)
 
@@ -1243,8 +1227,8 @@ Preço original: ~ R$ 600
 **À Venda por:** **~R$ 380**
 
 ---
+-->
 
-<!--
 ### Difusor e Umidificador de Ambientes (Branco)
 ![Photo 1](./photos/P_20260108_110705.jpg)
 ![Photo 2](./photos/P_20260108_110710.jpg)
@@ -1262,9 +1246,7 @@ Preço original: ~ R$ 45
 **À Venda por:** **~R$ 20**
 
 ---
--->
 
-<!--
 ### Guitarra Elétrica Queen's (Estilo Stratocaster - Vermelha)
 ![Photo 1](./photos/P_20260108_111001.jpg)
 ![Photo 2](./photos/P_20260108_111004.jpg)
@@ -1281,7 +1263,6 @@ Preço original: ~ R$ 45
 Preço original: ~ R$ 600
 
 **À Venda por:** **~R$ 350**
--->
 <!-- 
 ---
 
@@ -1316,19 +1297,20 @@ Preço original: ~ R$ 80
 Preço original: ~ R$ 350
 
 **À Venda por:** **~R$ 220**
+ -->
 
 ---
 
 ### PlayStation 5 Slim (Edição Digital) + 2 Jogos + Controle Extra + Dock
 ![Photo 1](./photos/P_20260108_114437.jpg)
 
-**Modelo:** `PS5 Slim Digital (CFI-2014)`
+**Modelo:** `PS5 Slim Digital`
 **Estado:** Excelente (Na caixa)
 
 #### Destaques:
   - Modelo Slim com 1TB de SSD e design compacto.
   - Versão Digital Edition (sem leitor de discos).
-  - Inclui códigos para os jogos Ratchet & Clank: Em Uma Outra Dimensão e Returnal.
+  - Inclui códigos para os jogos Ratchet & Clank: Em Uma Outra Dimensão e Returnal (nao usados).
   - Combo completo: Acompanha controle extra Midnight Black e base de carregamento duplo OIVO com indicadores LED.
 
 **Links:** [PlayStation Brasil](https://www.playstation.com/pt-br/ps5/) | [OIVO Design](https://www.oivodesign.com/)
@@ -1336,7 +1318,6 @@ Preço original: ~ R$ 350
 Preço original: ~ R$ 5.100 (Combo)
 
 **À Venda por:** **~R$ 3.200**
- -->
 
 ---
 
@@ -1361,6 +1342,7 @@ Preço original: ~ R$ 450
 
 ---
 
+<!--
 ### Suporte de Notebook Multiuso LH Móveis (Portátil/Dobrável)
 ![Photo 1](./photos/P_20260108_163523.jpg)
 ![Photo 2](./photos/P_20260108_163555.jpg)
@@ -1379,8 +1361,8 @@ Preço original: ~ R$ 70
 **À Venda por:** **~R$ 40**
 
 ---
+-->
 
-<!--
 ### Ring Light Profissional com Suporte para Celular
 ![Photo 1](./photos/P_20260108_120141.jpg)
 
@@ -1395,7 +1377,6 @@ Preço original: ~ R$ 70
 Preço original: ~ R$ 268
 
 **À Venda por:** **~R$ 160**
--->
 <!-- 
 ---
 
@@ -1458,7 +1439,6 @@ Preço original: R$ 245,76
 
 ---
 
-<!--
 ### Projetor de Galáxia Astronauta Urso
 ![Photo 1](./photos/P_20260108_151752.jpg)
 
@@ -1476,7 +1456,6 @@ Preço original: ~ R$ 120
 **À Venda por:** **~R$ 70**
 
 ---
--->
 
 <!-- 
 
@@ -1539,6 +1518,7 @@ Preço original: ~ R$ 800
 
 ---
 
+<!--
 ### Espelho Orgânico Diamond (Acabamento em Couro)
 ![Photo 1](./photos/P_20260108_151924.jpg)
 ![Photo 2](./photos/P_20260108_151932.jpg)
@@ -1557,7 +1537,9 @@ Preço original: ~ R$ 80
 **À Venda por:** **~R$ 50**
 
 ---
+-->
 
+<!--
 ### Espelho Orgânico Grande (Fim de Corredor)
 ![Photo 1](./photos/P_20260108_152019.jpg)
 
@@ -1574,8 +1556,8 @@ Preço original: ~ R$ 215
 **À Venda por:** **~R$ 130**
 
 ---
+-->
 
-<!--
 ### Jogo de Dardos
 ![Photo 1](./photos/P_20260108_152045.jpg)
 
@@ -1604,7 +1586,6 @@ Preço original: ~ R$ 215
 **À Venda por:** **~R$ 80**
 
 ---
--->
 
 ### Miniaturas de Navios de Cruzeiro MSC (Seaview & Preziosa)
 ![Photo 1](./photos/P_20260108_152100.jpg)
@@ -1642,7 +1623,6 @@ Preço original: ~ R$ 180
 ---
  -->
 
-<!--
 ### Mochila de Lona e Couro Vintage
 ![Photo 1](./photos/P_20260108_152317.jpg)
 
@@ -1655,7 +1635,7 @@ Preço original: ~ R$ 180
   - Estilo versátil para uso diário, viagens ou estudos.
 
 **À Venda por:** **~R$ 75**
--->
+
 
 <!-- ---
 
@@ -1674,6 +1654,7 @@ Preço original: ~ R$ 180
 
 ---
 
+<!--
 ### Secador de Cabelo Compacto (Vermelho)
 ![Photo 2](./photos/P_20260108_152345.jpg)
 
@@ -1687,6 +1668,7 @@ Preço original: ~ R$ 180
 **À Venda por:** **~R$ 40**
 
 ---
+-->
 
 ### Coleção de Bonés (Nacional/Senna, Superman, BSB City)
 ![Photo 3](./photos/P_20260108_152412.jpg)
@@ -1720,7 +1702,6 @@ Preço original: ~ R$ 180
 
 ---
 
-<!--
 ### Guarda-chuva Automático Fazzoletti (Preto)
 ![Photo 1](./photos/P_20260108_152156.jpg)
 
@@ -1738,7 +1719,6 @@ Preço original: ~ R$ 130
 **À Venda por:** **~R$ 75**
 
 ---
--->
 
 ### Caneta Jato de Plasma (Removedor de Manchas e Verrugas)
 ![Photo 1](./photos/P_20260108_154943.jpg)
@@ -1758,7 +1738,6 @@ Preço original: ~ R$ 120
 
 ---
 
-<!--
 ### Máscara de Beleza LED de 7 cores
 ![Photo 1](./photos/P_20260108_162553.jpg)
 
@@ -1776,7 +1755,6 @@ Preço original: ~ R$ 140
 **À Venda por:** **~R$ 90**
 
 ---
--->
 
 <!-- 
 ### Kit de Ventosaterapia Zenai Pro Series
@@ -1835,6 +1813,7 @@ Preço original: R$ 391,38
 
 ---
 
+<!--
 ### Xiaomi Mi Box (TV Box 4K)
 ![Photo 1](./photos/P_20260108_181614.jpg)
 
@@ -1851,7 +1830,9 @@ Preço original: ~ R$ 350
 **À Venda por:** **~R$ 220**
 
 ---
+-->
 
+<!--
 ### Régua de Energia com USB (3 Tomadas + 3 USB)
 ![Photo 1](./photos/P_20260108_181715.jpg)
 
@@ -1868,6 +1849,7 @@ Preço original: R$ 69,99
 **À Venda por:** **~R$ 45**
 
 ---
+-->
 
 ### Termômetro e Higrômetro Digital Compacto
 ![Photo 1](./photos/P_20260108_181532.jpg)

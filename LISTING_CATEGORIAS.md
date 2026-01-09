@@ -3,8 +3,6 @@
 ## Apple
 - iMac 24" M3 (Azul) + Hub USB (Combo) (tags: #apple #imac #desktop #usb-c #retina)
 - iMac 21.5 (Modelo 2017) (tags: #apple #imac #desktop #intel #upgrade)
-- iPhone 17 Pro Max (tags: #apple #iphone #smartphone #camera #pro)
-- Apple Watch Ultra 2 (GPS + Cellular) (tags: #apple #watch #wearable #gps #titaneo)
 - Apple Magic Trackpad (Branco - USB-C) (tags: #apple #trackpad #periferico #usb-c #mac)
 - Apple AirPods Max (Sky Blue) (tags: #apple #fones #over-ear #anc #audio)
 - AirPods Pro (3ª Geração) - USB-C (tags: #apple #airpods #anc #usb-c #fones)
@@ -15,12 +13,13 @@
 - Monitores de Áudio Edifier M60 (Branco) (tags: #audio #monitores #bluetooth #hires #desktop)
 - Smart TV Portátil LG StanbyME 27" (tags: #tv #lg #touch #portatil #nfc)
 - Óculos de Áudio JBL Soundgear Frames (tags: #jbl #audio #oculos #wearable #opensound)
-- Xiaomi Mi Box (TV Box 4K) (tags: #xiaomi #tvbox #4k #streaming #androidtv)
+
+## Games e Consoles
+- PlayStation 5 Slim (Edição Digital) + 2 Jogos + Controle Extra + Dock (tags: #playstation #ps5 #console #jogos #sony)
 
 ## Computadores e Perifericos
 - Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever) (tags: #teclado #mecanico #retro #bluetooth #usb-c)
 - XP-Pen Wireless Shortcut Remote (Atalhos) (tags: #atalhos #bluetooth #criacao #tablet #dial)
-- Suporte de Notebook Multiuso LH Móveis (Portátil/Dobrável) (tags: #suporte #notebook #portatil #dobravel #ergonomia)
 
 ## Foto e Video
 - Estabilizador Gimbal Hohem iSteady M6 (Kit com Sensor AI) (tags: #gimbal #smartphone #video #estabilizacao #ai)
@@ -34,14 +33,11 @@
 - Garrafa Filtro Portátil Stone Water (tags: #garrafa #filtro #portatil #agua #stonewater)
 - Garrafa Térmica Pavia 2.5L Unitermi (tags: #garrafa #termica #unitermi #pavia #bebidas)
 - Garrafa Térmica NRMEI 5L (tags: #garrafa #termica #bebidas #isotermica #nrmei)
-- Cafeteira Expresso Philco 20 Bar Inox Red (tags: #cafeteira #expresso #philco #cozinha #inox)
 - Ventilador de Mesa Philco Mega Turbo 40 (tags: #ventilador #philco #verao #casa #mesa)
 
 ## Moveis e Decoracao
 - Cadeira Presidente Ergonômica Yamasoro (Branca) (tags: #cadeira #ergonomica #office #branca #conforto)
 - Cadeira Decorativa Wingback Capitonê (Pink/Veludo) (tags: #poltrona #decoracao #veludo #retro #capitone)
-- Espelho Orgânico Diamond (Acabamento em Couro) (tags: #espelho #decoracao #organico #couro #parede)
-- Espelho Orgânico Grande (Fim de Corredor) (tags: #espelho #decoracao #organico #corredor #grande)
 
 ## Organizacao e Escritorio
 - Suporte de Leitura Ajustável em Madeira e Alumínio (tags: #leitura #suporte #madeira #aluminio #escritorio)
@@ -51,7 +47,6 @@
 - Auxiliar de Sono Dreamate D6 TENS (tags: #sono #tens #saude #relaxamento #usb)
 - Boné de LED Capellux (Tratamento Capilar) (tags: #capilar #led #fototerapia #beleza #tratamento)
 - Kit de Beleza e Bem-Estar (Lotes) (tags: #skincare #bemestar #oleos #aromaterapia #kit)
-- Secador de Cabelo Compacto (Vermelho) (tags: #secador #beleza #cabelo #compacto #vermelho)
 - Máquina de Terapia Digital TENS/EMS (tags: #tens #ems #terapia #saude #relaxamento)
 - Caneta Jato de Plasma (Removedor de Manchas e Verrugas) (tags: #beleza #saude #tratamento #plasma #estetica)
 
@@ -71,7 +66,6 @@
 
 ## Acessorios Mobile e Energia
 - Carregador de Baterias Nitecore Digicharger D4 (tags: #carregador #baterias #nitecore #lcd #inteligente)
-- Régua de Energia com USB (3 Tomadas + 3 USB) (tags: #regua #energia #usb #tomadas #eletrica)
 
 ## Wearables e Relogios
 - Smartwatch Huawei Watch GT 5 (46mm) (tags: #smartwatch #huawei #wearable #saude #esportes)
