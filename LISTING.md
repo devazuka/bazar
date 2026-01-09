@@ -631,7 +631,7 @@ Preço original: R$ 6.999,00
 
 **Links:** [Site do Fabricante](https://www.apple.com/br/imac/) | [Hub (Amazon)](https://www.amazon.com.br/dp/B0D1MF3TGC)
 
-Preço original: ~ R$ 12.000+ (Com acessórios)
+Preço original: ~ R$ 13.500+ (Com acessórios)
 
 **À Venda por:** **~R$ 9.000**
 
@@ -646,14 +646,14 @@ Preço original: ~ R$ 12.000+ (Com acessórios)
 #### Destaques:
   - Processador Intel (Modelo 2017).
   - 8GB RAM.
-  - SSD 512GB (Upgrade).
+  - SSD 480GB (Upgrade).
   - Design clássico em alumínio e vidro.
 
 **Links:** [Site do Fabricante](https://support.apple.com/kb/SP758?locale=pt_BR)
 
-Preço original: ~ R$ 6.000 (Na época)
+Preço original: ~ R$ 16.000 (Na época)
 
-**À Venda por:** **~R$ 3.000**
+**À Venda por:** **~R$ 2.900**
 
 ---
 

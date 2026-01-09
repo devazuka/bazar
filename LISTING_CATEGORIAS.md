@@ -104,9 +104,6 @@
 ## Gadgets e Gravacao
 - Gravador de Voz IA Plaud Note (tags: #gravador #ia #transcricao #magsafe #64gb)
 
-## Games e Consoles
-- PlayStation 5 Slim (Edição Digital) + 2 Jogos + Controle Extra + Dock (tags: #playstation #ps5 #console #jogos #sony)
-
 ## Moda e Acessorios
 - Mochila de Lona e Couro Vintage (tags: #mochila #lona #couro #vintage #bolsa)
 - Coleção de Bonés (Nacional/Senna, Superman, BSB City) (tags: #bones #colecao #acessorios #casual #estilo)
