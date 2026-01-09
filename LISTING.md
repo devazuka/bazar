@@ -247,6 +247,7 @@ Preço original: ~ R$ 650
 
 ---
 
+<!--
 ### Escudo Capitão América (Réplica Colecionável)
 ![Photo 5](./photos/P_20260106_162302.jpg)
 ![Photo 6](./photos/P_20260106_162316.jpg)
@@ -265,6 +266,7 @@ Preço original: ~ R$ 800
 **À Venda por:** **~R$ 500**
 
 ---
+-->
 
 <!--
 ### Lava e Seca Samsung WD11A EcoBubble 11kg (Inox Look)
@@ -409,6 +411,7 @@ Preço original: ~ R$ 1.490
 
 ---
 -->
+<!--
 ### Lixeiras Automáticas Inox (50L)
 ![Photo 5](./photos/P_20260107_171857.jpg)
 
@@ -444,6 +447,7 @@ Preço original: R$ 115,00
 **À Venda por:** **~R$ 80**
 
 ---
+-->
 
 <!--
 ### Fragmentadora de Papel Aurora AS600S
@@ -637,7 +641,7 @@ Preço original: ~ R$ 13.500+ (Com acessórios)
 
 ---
 
-### iMac (Modelo 2017)
+### iMac 21.5 (Modelo 2017)
 ![Photo 2](./photos/P_20260108_005636.jpg)
 
 **Modelo:** `iMac 2017`
@@ -880,6 +884,7 @@ Preço original: R$ 949,05
 
 ---
 
+<!--
 ### Tripé Profissional 1,80m + Suporte Ulanzi ST-06S
 ![Photo 1](./photos/P_20260108_104858.jpg)
 
@@ -917,6 +922,7 @@ Preço original: ~ R$ 60
 **À Venda por:** **~R$ 35**
 
 ---
+-->
 
 <!-- 
 ### Cubo de LED Infinito (Infinity 4)
@@ -937,6 +943,7 @@ Preço original: ~ R$ 180
 
 ---
  -->
+<!--
 ### Barras de LED Rítmicas RGB (Sound Control - Par)
 ![Photo 1](./photos/P_20260108_104957.jpg)
 
@@ -954,6 +961,7 @@ Preço original: ~ R$ 140 (O par)
 **À Venda por:** **~R$ 80**
 
 ---
+-->
 
 ### Cesto de Roupa em Bambu Retangular (com Forro)
 ![Photo 1](./photos/P_20260108_105040.jpg)
@@ -1030,6 +1038,7 @@ Preço original: R$ 2.299,00
 
 ---
 
+<!--
 ### Kit de Treino 4 em 1 Domyos (Roda Abdominal e Apoio de Flexão)
 ![Photo 1](./photos/P_20260108_105135.jpg)
 
@@ -1067,6 +1076,7 @@ Preço original: ~ R$ 80
 **À Venda por:** **~R$ 50**
 
 ---
+-->
 
 ### Garrafa Filtro Portátil Stone Water
 ![Photo 1](./photos/P_20260108_105140.jpg)
@@ -1127,6 +1137,7 @@ Preço original: R$ 169,00
 
 ---
  -->
+<!--
 ### Puffs Cubo em Corino (Conjunto com 5 unidades)
 ![Photo 1](./photos/P_20260108_105233.jpg)
 
@@ -1163,6 +1174,8 @@ Preço original: ~ R$ 180
 
 **À Venda por:** **~R$ 110**
 
+---
+-->
 <!--
 ---
 ### Cadeira Presidente Ergonômica Mesh (Preta)
@@ -1241,6 +1254,7 @@ Preço original: ~ R$ 45
 
 ---
 
+<!--
 ### Guitarra Elétrica Queen's (Estilo Stratocaster - Vermelha)
 ![Photo 1](./photos/P_20260108_111001.jpg)
 ![Photo 2](./photos/P_20260108_111004.jpg)
@@ -1257,6 +1271,7 @@ Preço original: ~ R$ 45
 Preço original: ~ R$ 600
 
 **À Venda por:** **~R$ 350**
+-->
 <!-- 
 ---
 
@@ -1355,6 +1370,7 @@ Preço original: ~ R$ 70
 
 ---
 
+<!--
 ### Ring Light Profissional com Suporte para Celular
 ![Photo 1](./photos/P_20260108_120141.jpg)
 
@@ -1369,6 +1385,7 @@ Preço original: ~ R$ 70
 Preço original: ~ R$ 268
 
 **À Venda por:** **~R$ 160**
+-->
 <!-- 
 ---
 
@@ -1431,6 +1448,7 @@ Preço original: R$ 245,76
 
 ---
 
+<!--
 ### Projetor de Galáxia Astronauta Urso
 ![Photo 1](./photos/P_20260108_151752.jpg)
 
@@ -1448,6 +1466,7 @@ Preço original: ~ R$ 120
 **À Venda por:** **~R$ 70**
 
 ---
+-->
 
 <!-- 
 
@@ -1546,6 +1565,7 @@ Preço original: ~ R$ 215
 
 ---
 
+<!--
 ### Jogo de Dardos
 ![Photo 1](./photos/P_20260108_152045.jpg)
 
@@ -1574,6 +1594,7 @@ Preço original: ~ R$ 215
 **À Venda por:** **~R$ 80**
 
 ---
+-->
 
 ### Miniaturas de Navios de Cruzeiro MSC (Seaview & Preziosa)
 ![Photo 1](./photos/P_20260108_152100.jpg)
@@ -1611,6 +1632,7 @@ Preço original: ~ R$ 180
 ---
  -->
 
+<!--
 ### Mochila de Lona e Couro Vintage
 ![Photo 1](./photos/P_20260108_152317.jpg)
 
@@ -1623,7 +1645,7 @@ Preço original: ~ R$ 180
   - Estilo versátil para uso diário, viagens ou estudos.
 
 **À Venda por:** **~R$ 75**
-
+-->
 
 <!-- ---
 
