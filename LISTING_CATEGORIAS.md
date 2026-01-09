@@ -21,7 +21,6 @@
 - Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever) (tags: #teclado #mecanico #retro #bluetooth #usb-c)
 - Mesa Digitalizadora Huion Inspiroy (tags: #tablet #desenho #caneta #criacao #usb)
 - XP-Pen Wireless Shortcut Remote (Atalhos) (tags: #atalhos #bluetooth #criacao #tablet #dial)
-- Kindle Oasis (E-reader Premium) (tags: #kindle #ereader #leitura #telailuminada #waterproof)
 - Suporte de Notebook Multiuso LH Móveis (Portátil/Dobrável) (tags: #suporte #notebook #portatil #dobravel #ergonomia)
 
 ## Foto e Video
@@ -33,15 +32,10 @@
 
 ## Iluminacao e Setup
 - Light Bar para Monitor Baseus i-wok 2 (tags: #iluminacao #monitor #usb-c #setup #baseus)
-- Cubo de LED Infinito (Infinity 4) (tags: #led #decoracao #setup #luz #geometrico)
 - Barras de LED Rítmicas RGB (Sound Control - Par) (tags: #led #rgb #sound #setup #portatil)
 - Projetor de Galáxia Astronauta Urso (tags: #projetor #galaxia #led #astronauta #decoracao)
 
 ## Casa e Cozinha
-- Lava e Seca Samsung WD11A EcoBubble 11kg (Inox Look) (tags: #lavaroupa #secadora #samsung #inox #ecobubble)
-- Fogão 4 Bocas Electrolux Prata Efficient (FE4GS) (tags: #fogao #electrolux #cozinha #vidro #vaporclean)
-- Fritadeira Elétrica Electrolux 5L (Edição Rita Lobo) (tags: #airfryer #electrolux #cozinha #5l #ritalobo)
-- Fritadeira Elétrica Air Fryer Oven 12L Electrolux (Edição Rita Lobo) (tags: #airfryer #electrolux #12l #cozinha #ritalobo)
 - Tábua de Corte DOMEZ (Dupla Face) (tags: #tabua #cozinha #corte #duravel #gourmet)
 - Lixeiras Automáticas Inox (50L) (tags: #lixeira #inox #sensor #cozinha #higiene)
 - Lixeiras Automáticas Banheiro (15L) (tags: #lixeira #sensor #banheiro #compacta #higiene)
@@ -49,34 +43,23 @@
 - Garrafa Filtro Portátil Stone Water (tags: #garrafa #filtro #portatil #agua #stonewater)
 - Garrafa Térmica Pavia 2.5L Unitermi (tags: #garrafa #termica #unitermi #pavia #bebidas)
 - Garrafa Térmica NRMEI 5L (tags: #garrafa #termica #bebidas #isotermica #nrmei)
-- Cinzeiro Telescópio em Metal (Prata) (tags: #cinzeiro #metal #casa #decoracao #prata)
-- Afiador de Facas Profissional 3 em 1 (tags: #afiador #facas #cozinha #profissional #lamina)
 - Cafeteira Expresso Philco 20 Bar Inox Red (tags: #cafeteira #expresso #philco #cozinha #inox)
 - Ventilador de Mesa Philco Mega Turbo 40 (tags: #ventilador #philco #verao #casa #mesa)
 
 ## Moveis e Decoracao
 - Cadeira Presidente Ergonômica Yamasoro (Branca) (tags: #cadeira #ergonomica #office #branca #conforto)
 - Cadeira Decorativa Wingback Capitonê (Pink/Veludo) (tags: #poltrona #decoracao #veludo #retro #capitone)
-- Mesa Motorizada Sit/Stand (Ajuste de Altura) (tags: #mesa #sitstand #office #ajustealtura #ergonomia)
-- Cadeira Presidente Ergonômica Mesh (Preta) (tags: #cadeira #ergonomica #mesh #office #preta)
 - Puffs Cubo em Corino (Conjunto com 5 unidades) (tags: #puff #corino #decoracao #assento #conjunto)
 - Puff Baú de Veludo (Verde Esmeralda) (tags: #puff #bau #veludo #decoracao #verde)
-- Prateleira Decorativa em Madeira (Suporte Preto) (tags: #prateleira #madeira #decoracao #suporte #preto)
-- Tambor Decorativo Ferrari (Customizado) (tags: #decoracao #ferrari #tambor #customizado #tema)
 - Difusor e Umidificador de Ambientes (Branco) (tags: #difusor #umidificador #aroma #casa #branco)
 - Espelho Orgânico Diamond (Acabamento em Couro) (tags: #espelho #decoracao #organico #couro #parede)
 - Espelho Orgânico Grande (Fim de Corredor) (tags: #espelho #decoracao #organico #corredor #grande)
-- Cadeira Eames DSW Rosa (tags: #cadeira #eames #design #decoracao #rosa)
-- Placa Decorativa Rústica (Música, Risos, Tempo, Sonhos, Amor) (tags: #placa #decoracao #rustica #frase #parede)
-- Escultura Self Made Man (30cm) (tags: #escultura #decoracao #arte #estatua #escritorio)
 
 ## Organizacao e Escritorio
-- Fragmentadora de Papel Aurora AS600S (tags: #fragmentadora #office #papel #cartoes #compacta)
 - Suporte de Leitura Ajustável em Madeira e Alumínio (tags: #leitura #suporte #madeira #aluminio #escritorio)
 
 ## Ferramentas e Automotivo
 - Compressor de Ar Portátil Baseus Energy Source (tags: #compressor #portatil #carro #baseus #inflador)
-- Escada Articulada (Step Ladder) (tags: #escada #aluminio #dobravel #casa #seguranca)
 
 ## Saude e Beleza
 - Escova Elétrica Oral-B iO Series 9 (Preta) (tags: #beleza #saude #higiene #escova #io)
@@ -85,7 +68,6 @@
 - Kit de Beleza e Bem-Estar (Lotes) (tags: #skincare #bemestar #oleos #aromaterapia #kit)
 - Secador de Cabelo Compacto (Vermelho) (tags: #secador #beleza #cabelo #compacto #vermelho)
 - Máscara de Beleza LED de 7 cores (tags: #mascara #led #beleza #tratamento #facial)
-- Kit de Ventosaterapia Zenai Pro Series (tags: #ventosaterapia #saude #bemestar #kit #relaxamento)
 - Máquina de Terapia Digital TENS/EMS (tags: #tens #ems #terapia #saude #relaxamento)
 - Caneta Jato de Plasma (Removedor de Manchas e Verrugas) (tags: #beleza #saude #tratamento #plasma #estetica)
 
@@ -94,7 +76,7 @@
 - Máquina de Alongamento de Pernas (Leg Stretch Machine) (tags: #alongamento #flexibilidade #treino #aerobico #pernas)
 - Esteira Elétrica Residencial Plana (Até 12km/h) (tags: #esteira #cardio #treino #compacta #homegym)
 - Kit de Treino 4 em 1 Domyos (Roda Abdominal e Apoio de Flexão) (tags: #domyos #treino #core #flexao #acessorio)
-- Jogo de Dardos Profissional (tags: #dardos #jogo #esporte #alvo #laser)
+- Jogo de Dardos (tags: #dardos #jogo #esporte #alvo #laser)
 - Barra de Porta Telescópica (Ajustável) (tags: #barra #porta #treino #tracao #fitness)
 
 ## Colecionaveis e Hobby
@@ -109,13 +91,9 @@
 
 ## Instrumentos e Medicao
 - Balança Digital de Alta Precisão Bolida (tags: #balanca #precisao #0_01g #medicao #compacta)
-- Balança Digital Profissional Modus Pro-50 (tags: #balanca #precisao #0_001g #laboratorio #joias)
-- Microscópio Eletrônico Digital (tags: #microscopio #usb #ampliacao #led #inspecao)
 - Termômetro e Higrômetro Digital Compacto (tags: #termometro #higrometro #medicao #digital #compacto)
 
 ## Acessorios Mobile e Energia
-- Power Bank 22.5W (Com Cabos Integrados) (tags: #powerbank #carregamento #usb-c #lightning #portatil)
-- Carregador Sem Fio Dobrável FAM (tags: #carregador #wireless #qi #dobravel #suporte)
 - Carregador de Baterias Nitecore Digicharger D4 (tags: #carregador #baterias #nitecore #lcd #inteligente)
 - Régua de Energia com USB (3 Tomadas + 3 USB) (tags: #regua #energia #usb #tomadas #eletrica)
 
@@ -137,6 +115,3 @@
 
 ## Instrumentos Musicais
 - Guitarra Elétrica Queen's (Estilo Stratocaster - Vermelha) (tags: #guitarra #musica #instrumento #stratocaster #vermelha)
-
-## Outros
-- Pod Descartável Ignite V50 (tags: #pod #ignite #vape #descartavel #v50)

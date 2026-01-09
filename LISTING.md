@@ -266,6 +266,7 @@ Preço original: ~ R$ 800
 
 ---
 
+<!--
 ### Lava e Seca Samsung WD11A EcoBubble 11kg (Inox Look)
 ![Photo 1](./photos/P_20260107_112731.jpg)
 ![Photo 2](./photos/P_20260107_112736.jpg)
@@ -287,7 +288,6 @@ Preço original: R$ 4.124,47
 **À Venda por:** **~R$ 2.800**
 
 ---
-
 ### Fogão 4 Bocas Electrolux Prata Efficient (FE4GS)
 ![Photo 1](./photos/P_20260107_113302.jpg)
 ![Photo 2](./photos/P_20260107_113320.jpg)
@@ -308,6 +308,7 @@ Preço original: R$ 2.048,76
 **À Venda por:** **~R$ 1.400**
 
 ---
+-->
 
 ### Smart TV Portátil LG StanbyME 27"
 ![Photo 1](./photos/P_20260107_113459.jpg)
@@ -352,7 +353,7 @@ Preço original: R$ 90,00
 
 ---
 
-### Balança Digital Profissional Modus Pro-50
+<!-- ### Balança Digital Profissional Modus Pro-50
 ![Photo 1](./photos/P_20260107_171837.jpg)
 
 **Modelo:** `Pro-50`
@@ -407,7 +408,7 @@ Preço original: ~ R$ 1.490
 **À Venda por:** **~R$ 1.000**
 
 ---
-
+-->
 ### Lixeiras Automáticas Inox (50L)
 ![Photo 5](./photos/P_20260107_171857.jpg)
 
@@ -444,6 +445,7 @@ Preço original: R$ 115,00
 
 ---
 
+<!--
 ### Fragmentadora de Papel Aurora AS600S
 ![Photo 1](./photos/P_20260108_104511.jpg)
 
@@ -519,7 +521,7 @@ Preço original: ~ R$ 1.300
 **À Venda por:** **~R$ 850**
 
 ---
-
+-->
 ### Coleção de Relógios (Curren, ChilliBeans, etc)
 ![Photo 1](./photos/P_20260108_003048.jpg)
 
@@ -674,6 +676,7 @@ Preço original: R$ 14.000
 
 ---
 
+<!-- 
 ### Power Bank 22.5W (Com Cabos Integrados)
 ![Photo 2](./photos/P_20260108_010443.jpg)
 
@@ -709,7 +712,7 @@ Preço original: ~ R$ 150
 **À Venda por:** **~R$ 80**
 
 ---
-
+ -->
 ### Apple AirTags (Kit com 3)
 ![Photo 1](./photos/P_20260108_002607.jpg)
 
@@ -831,6 +834,9 @@ Preço original: ~ R$ 1.500
 
 **À Venda por:** **~R$ 950**
 
+---
+
+<!-- 
 ### Fritadeira Elétrica Electrolux 5L (Edição Rita Lobo)
 ![Photo 1](./photos/P_20260108_104549.jpg)
 ![Photo 3](./photos/P_20260108_104815.jpg)
@@ -851,7 +857,7 @@ Preço original: ~ R$ 650
 
 ---
 
-
+ -->
 ### Estabilizador Gimbal Hohem iSteady M6 (Kit com Sensor AI)
 ![Photo 1](./photos/P_20260108_104833.jpg)
 ![Photo 2](./photos/P_20260108_104838.jpg)
@@ -912,6 +918,7 @@ Preço original: ~ R$ 60
 
 ---
 
+<!-- 
 ### Cubo de LED Infinito (Infinity 4)
 ![Photo 1](./photos/P_20260108_104915.jpg)
 
@@ -929,7 +936,7 @@ Preço original: ~ R$ 180
 **À Venda por:** **~R$ 100**
 
 ---
-
+ -->
 ### Barras de LED Rítmicas RGB (Sound Control - Par)
 ![Photo 1](./photos/P_20260108_104957.jpg)
 
@@ -1100,6 +1107,7 @@ Preço original: ~ R$ 459
 
 ---
 
+<!-- 
 ### Cinzeiro Telescópio em Metal (Prata)
 ![Photo 1](./photos/P_20260108_105209.jpg)
 ![Photo 2](./photos/P_20260108_105213.jpg)
@@ -1118,7 +1126,7 @@ Preço original: R$ 169,00
 **À Venda por:** **~R$ 100**
 
 ---
-
+ -->
 ### Puffs Cubo em Corino (Conjunto com 5 unidades)
 ![Photo 1](./photos/P_20260108_105233.jpg)
 
@@ -1135,7 +1143,7 @@ Preço original: R$ 169,00
 
 Preço original: ~ R$ 250 (O conjunto)
 
-**À Venda por:** **~R$ 150 (O lote)**
+**À Venda por:** **~R$ 10 (unidade)**
 
 ---
 
@@ -1155,8 +1163,8 @@ Preço original: ~ R$ 180
 
 **À Venda por:** **~R$ 110**
 
+<!--
 ---
-
 ### Cadeira Presidente Ergonômica Mesh (Preta)
 ![Photo 1](./photos/P_20260108_105259.jpg)
 
@@ -1172,7 +1180,6 @@ Preço original: ~ R$ 180
 Preço original: ~ R$ 1.200
 
 **À Venda por:** **~R$ 750**
-
 ---
 
 ### Afiador de Facas Profissional 3 em 1
@@ -1192,6 +1199,7 @@ Preço original: ~ R$ 1.200
 Preço original: ~ R$ 40
 
 **À Venda por:** **~R$ 25**
+ -->
 
 ---
 
@@ -1229,7 +1237,7 @@ Preço original: ~ R$ 600
 
 Preço original: ~ R$ 45
 
-**À Venda por:** **~R$ 30**
+**À Venda por:** **~R$ 20**
 
 ---
 
@@ -1249,7 +1257,7 @@ Preço original: ~ R$ 45
 Preço original: ~ R$ 600
 
 **À Venda por:** **~R$ 350**
-
+<!-- 
 ---
 
 ### Prateleira Decorativa em Madeira (Suporte Preto)
@@ -1266,7 +1274,6 @@ Preço original: ~ R$ 600
 Preço original: ~ R$ 80
 
 **À Venda por:** **~R$ 50**
-
 ---
 
 ### Tambor Decorativo Ferrari (Customizado)
@@ -1304,6 +1311,7 @@ Preço original: ~ R$ 350
 Preço original: ~ R$ 5.100 (Combo)
 
 **À Venda por:** **~R$ 3.200**
+ -->
 
 ---
 
@@ -1349,7 +1357,6 @@ Preço original: ~ R$ 70
 
 ### Ring Light Profissional com Suporte para Celular
 ![Photo 1](./photos/P_20260108_120141.jpg)
-![Photo 2](./photos/P_20260108_120212.jpg)
 
 **Estado:** Excelente
 
@@ -1362,7 +1369,7 @@ Preço original: ~ R$ 70
 Preço original: ~ R$ 268
 
 **À Venda por:** **~R$ 160**
-
+<!-- 
 ---
 
 ### Pod Descartável Ignite V50
@@ -1380,7 +1387,7 @@ Preço original: ~ R$ 268
 Preço original: ~ R$ 110
 
 **À Venda por:** **~R$ 60**
-
+ -->
 ---
 
 ### Carregador de Baterias Nitecore Digicharger D4
@@ -1418,9 +1425,9 @@ Preço original: ~ R$ 350
 
 **Links:** [Site do Fabricante](https://www.oralb.com.br/)
 
-Preço original: R$ 2.184,76
+Preço original: R$ 245,76
 
-**À Venda por:** **~R$ 1.400**
+**À Venda por:** **~R$ 90**
 
 ---
 
@@ -1442,6 +1449,8 @@ Preço original: ~ R$ 120
 
 ---
 
+<!-- 
+
 ### Escultura Self Made Man (30cm)
 ![Photo 1](./photos/P_20260108_151752.jpg)
 
@@ -1459,7 +1468,7 @@ Preço original: ~ R$ 180
 **À Venda por:** **~R$ 110**
 
 ---
-
+ -->
 ### Ventilador de Mesa Philco Mega Turbo 40
 ![Photo 1](./photos/P_20260108_151800.jpg)
 
@@ -1537,7 +1546,7 @@ Preço original: ~ R$ 215
 
 ---
 
-### Jogo de Dardos Profissional
+### Jogo de Dardos
 ![Photo 1](./photos/P_20260108_152045.jpg)
 
 **Estado:** Excelente
@@ -1562,7 +1571,7 @@ Preço original: ~ R$ 215
   - Peça de coleção para fãs da DC Comics e do Batman.
   - Pintura e acabamento de alta qualidade.
 
-**À Venda por:** **~R$ 120**
+**À Venda por:** **~R$ 80**
 
 ---
 
@@ -1578,10 +1587,11 @@ Preço original: ~ R$ 215
   - Fixados em base de madeira elegante com identificação do modelo.
   - Peças decorativas ideais para entusiastas de viagens e modelismo.
 
-**À Venda por:** **~R$ 150 (Cada)**
+**À Venda por:** **~R$ 50 (Cada)**
 
 ---
 
+<!-- 
 ### Cadeira Eames DSW Rosa
 ![Photo 1](./photos/P_20260108_152311.jpg)
 
@@ -1599,6 +1609,7 @@ Preço original: ~ R$ 180
 **À Venda por:** **~R$ 110**
 
 ---
+ -->
 
 ### Mochila de Lona e Couro Vintage
 ![Photo 1](./photos/P_20260108_152317.jpg)
@@ -1611,9 +1622,10 @@ Preço original: ~ R$ 180
   - Alças confortáveis e robustas.
   - Estilo versátil para uso diário, viagens ou estudos.
 
-**À Venda por:** **~R$ 160**
+**À Venda por:** **~R$ 75**
 
----
+
+<!-- ---
 
 ### Placa Decorativa Rústica (Música, Risos, Tempo, Sonhos, Amor)
 ![Photo 1](./photos/P_20260108_152323.jpg)
@@ -1626,6 +1638,7 @@ Preço original: ~ R$ 180
   - Peça única para decorar varandas, salas ou jardins.
 
 **À Venda por:** **~R$ 60**
+ -->
 
 ---
 
@@ -1639,7 +1652,7 @@ Preço original: ~ R$ 180
   - Cor vermelha vibrante com acabamento brilhoso.
   - Cabo ergonômico e bico direcionador de ar.
 
-**À Venda por:** **~R$ 50**
+**À Venda por:** **~R$ 40**
 
 ---
 
@@ -1729,6 +1742,7 @@ Preço original: ~ R$ 140
 
 ---
 
+<!-- 
 ### Kit de Ventosaterapia Zenai Pro Series
 ![Photo 1](./photos/P_20260108_162615.jpg)
 
@@ -1747,7 +1761,7 @@ Preço original: R$ 189,90
 
 **À Venda por:** **~R$ 120**
 
----
+--- -->
 
 ### Máquina de Terapia Digital TENS/EMS
 ![Photo 1](./photos/P_20260108_162558.jpg)

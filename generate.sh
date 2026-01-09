@@ -34,6 +34,28 @@ normalize() {
     | sed -E 's/[^a-z0-9]+/ /g; s/^ +| +$//g'
 }
 
+sold_titles=()
+sold_norm_titles=()
+while IFS= read -r sold_title; do
+  [[ -z "$sold_title" ]] && continue
+  sold_titles+=("$sold_title")
+  sold_norm_titles+=("$(normalize "$sold_title")")
+done < <(
+  awk '
+    BEGIN { in_comment=0 }
+    {
+      line=$0
+      if (match(line, /<!--/)) { in_comment=1 }
+      if (in_comment && match(line, /^### /)) {
+        title=line
+        sub(/^### /, "", title)
+        print title
+      }
+      if (match(line, /-->/)) { in_comment=0 }
+    }
+  ' LISTING.md
+)
+
 titles=()
 ids=()
 prices=()
@@ -96,6 +118,16 @@ while IFS= read -r line; do
         echo "<li><a href=\"#${id}\">${item}</a></li>" >> "$tmp_fragment"
       fi
     else
+      is_sold=0
+      for sold_norm in "${sold_norm_titles[@]}"; do
+        if [[ "$sold_norm" == *"$norm_item"* ]] || [[ "$norm_item" == *"$sold_norm"* ]]; then
+          is_sold=1
+          break
+        fi
+      done
+      if (( is_sold )); then
+        continue
+      fi
       unmatched+=("$item")
     fi
   fi
@@ -120,6 +152,11 @@ for i in "${!titles[@]}"; do
   if [[ "$norm_title" == "e muito mais" ]]; then
     continue
   fi
+  for sold_norm in "${sold_norm_titles[@]}"; do
+    if [[ "$sold_norm" == "$norm_title" ]]; then
+      continue 2
+    fi
+  done
   if [[ -z "${matched_ids[$id]+x}" ]]; then
     missing+=("$title")
   fi
@@ -129,11 +166,11 @@ awk '
   NR==FNR { frag = frag $0 ORS; next }
   {
     print
-    if (!inserted && seen_header && /<\/p>/) {
+    if (!inserted && /<\/header>/) {
       printf "%s", frag
       inserted = 1
-    }
-    if (/<\/header>/) {
+      seen_header = 1
+    } else if (/<\/header>/) {
       seen_header = 1
     }
   }
@@ -143,7 +180,7 @@ awk '
       exit 1
     }
     if (!inserted) {
-      print "First paragraph not found in index.html" > "/dev/stderr"
+      print "Index insertion point not found in index.html" > "/dev/stderr"
       exit 1
     }
   }
@@ -170,4 +207,3 @@ if (( ${#missing[@]} > 0 )); then
   printf " - %s\n" "${missing[@]}" >&2
   exit 1
 fi
-
