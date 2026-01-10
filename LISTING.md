@@ -1,7 +1,9 @@
-<!-- Este bazar foi organizado com os itens que pertenciam ao meu irmão, que infelizmente nos deixou recentemente. Todo o valor arrecadado será destinado a apoiar nossa família neste momento difícil. -->
 
-<!-- **Todos os preços são negociáveis.** Nosso objetivo principal é que esses itens encontrem novos lares onde sejam úteis. Sinta-se à vontade para conferir a lista e entrar em contato para propostas ou dúvidas. -->
+## Ultimo dia (das 9h30 ate 12h30)
 
+> **Todos os preços são negociáveis !**
+
+---
 
 ### Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever)
 ![Photo 1](./photos/P_20260106_143929.jpg)
@@ -44,8 +46,8 @@ Preço original: ~ R$ 1.500
 
 **À Venda por:** **~R$ 1.000**
 
+<!--
 ---
-
 ### Patinete Elétrico Polares T10pro (800W)
 ![Photo 1](./photos/P_20260106_144044.jpg)
 
@@ -67,46 +69,6 @@ Preço original: R$ 3.509,98
 
 ---
 
-### Fun-Tech Lab 1:64 Windsible Desktop Wind Tunnel
-![Photo 1](./photos/P_20260106_144132.jpg)
-
-**Modelo:** `Windsible`
-**Estado:** Excelente
-
-#### Destaques:
-  - Túnel de vento de mesa para miniaturas 1:64 (Hot Wheels, etc).
-  - Sistema de fumaça para visualização aerodinâmica.
-  - Controle de velocidade do vento e iluminação.
-  - Peça de exibição única para colecionadores.
-
-**Links:** [Site do Fabricante](https://fun-tech-lab.com/)
-
-Preço original: ~ R$ 1.400 (Importado, US$ 239)
-
-**À Venda por:** **~R$ 900**
-
----
-
-### Runsible - Dinamômetro para Miniaturas 1:64
-![Photo 1](./photos/P_20260106_144155.jpg)
-
-**Modelo:** `Runsible 64`
-**Estado:** Excelente
-
-#### Destaques:
-  - Rolling road (esteira) para miniaturas escala 1:64 (Hot Wheels, Matchbox).
-  - Controle de velocidade rotativo e função start-stop.
-  - Base ajustável para diferentes entre-eixos (30mm+).
-  - Alimentação via USB-C, ideal para exibir carros "em movimento".
-
-**Links:** [Site do Fabricante](https://fun-tech-lab.com/)
-
-Preço original: ~ R$ 400 (Importado)
-
-**À Venda por:** **~R$ 250**
-
----
-
 ### Mesa Digitalizadora Huion Inspiroy
 ![Photo 9](./photos/P_20260106_145134.jpg)
 ![Photo 10](./photos/P_20260106_145142.jpg)
@@ -125,6 +87,7 @@ Preço original: ~ R$ 400 (Importado)
 Preço original: ~ R$ 550
 
 **À Venda por:** **~R$ 300**
+-->
 
 ---
 
@@ -146,6 +109,7 @@ Preço original: ~ R$ 280
 
 **À Venda por:** **~R$ 160**
 
+<!--
 ---
 
 ### Compressor de Ar Portátil Baseus Energy Source
@@ -167,8 +131,6 @@ Preço original: ~ R$ 350
 
 **À Venda por:** **~R$ 220**
 
----
-
 ### Auxiliar de Sono Dreamate D6 TENS
 ![Photo 1](./photos/P_20260106_150417.jpg)
 ![Photo 2](./photos/P_20260106_150430.jpg)
@@ -186,9 +148,10 @@ Preço original: ~ R$ 300 (Importado)
 
 **À Venda por:** **~R$ 180**
 
+-->
 ---
 
-### Balança Digital de Alta Precisão Bolida
+### Balança Digital de Alta Precisão
 ![Photo 3](./photos/P_20260106_150612.jpg)
 ![Photo 4](./photos/P_20260106_150720.jpg)
 
@@ -245,8 +208,7 @@ Preço original: ~ R$ 650
 
 **À Venda por:** **~R$ 400**
 
----
-
+<!--
 ### Escudo Capitão América (Réplica Colecionável)
 ![Photo 5](./photos/P_20260106_162302.jpg)
 ![Photo 6](./photos/P_20260106_162316.jpg)
@@ -265,6 +227,7 @@ Preço original: ~ R$ 800
 **À Venda por:** **~R$ 500**
 
 ---
+-->
 
 <!--
 ### Lava e Seca Samsung WD11A EcoBubble 11kg (Inox Look)
@@ -307,8 +270,8 @@ Preço original: R$ 2.048,76
 
 **À Venda por:** **~R$ 1.400**
 
----
 -->
+---
 
 ### Smart TV Portátil LG StanbyME 27"
 ![Photo 1](./photos/P_20260107_113459.jpg)
@@ -350,8 +313,6 @@ Preço original: ~ R$ 6.800
 Preço original: R$ 90,00
 
 **À Venda por:** **~R$ 70**
-
----
 
 <!-- ### Balança Digital Profissional Modus Pro-50
 ![Photo 1](./photos/P_20260107_171837.jpg)
@@ -408,7 +369,7 @@ Preço original: ~ R$ 1.490
 **À Venda por:** **~R$ 1.000**
 
 ---
--->
+
 ### Lixeiras Automáticas Inox (50L)
 ![Photo 5](./photos/P_20260107_171857.jpg)
 
@@ -444,6 +405,7 @@ Preço original: R$ 115,00
 **À Venda por:** **~R$ 80**
 
 ---
+-->
 
 <!--
 ### Fragmentadora de Papel Aurora AS600S
@@ -480,6 +442,7 @@ Preço original: ~ R$ 250
 
 **À Venda por:** **~R$ 140**
 
+-->
 ---
 
 ### XP-Pen Wireless Shortcut Remote (Atalhos)
@@ -500,7 +463,7 @@ Preço original: ~ R$ 300 (Importado)
 
 **À Venda por:** **~R$ 180**
 
----
+<!--
 
 ### Kindle Oasis (E-reader Premium)
 ![Photo 2](./photos/P_20260108_002836.jpg)
@@ -520,8 +483,9 @@ Preço original: ~ R$ 1.300
 
 **À Venda por:** **~R$ 850**
 
----
 -->
+---
+
 ### Coleção de Relógios (Curren, ChilliBeans, etc)
 ![Photo 1](./photos/P_20260108_003048.jpg)
 
@@ -594,8 +558,6 @@ Preço original: R$ 6.590,00
 
 **À Venda por:** **~R$ 4.500**
 
----
-
 <!--
 ### Apple Watch Ultra 2 (GPS + Cellular)
 ![Photo 1](./photos/P_20260108_005209.jpg)
@@ -617,6 +579,7 @@ Preço original: R$ 6.999,00
 
 ---
 -->
+---
 
 ### iMac 24" M3 (Azul) + Hub USB (Combo)
 ![Photo 2](./photos/P_20260108_005443.jpg)
@@ -657,8 +620,6 @@ Preço original: ~ R$ 16.000 (Na época)
 
 **À Venda por:** **~R$ 2.900**
 
----
-
 <!--
 ### iPhone 17 Pro Max
 ![Photo 2](./photos/P_20260108_010353.jpg)
@@ -678,9 +639,7 @@ Preço original: R$ 14.000
 **À Venda por:** **~R$ 9.600**
 
 ---
--->
 
-<!-- 
 ### Power Bank 22.5W (Com Cabos Integrados)
 ![Photo 2](./photos/P_20260108_010443.jpg)
 
@@ -715,8 +674,9 @@ Preço original: ~ R$ 150
 
 **À Venda por:** **~R$ 80**
 
+-->
 ---
- -->
+
 ### Apple AirTags (Kit com 3)
 ![Photo 1](./photos/P_20260108_002607.jpg)
 
@@ -755,8 +715,7 @@ Preço original: R$ 1.278,90
 
 **À Venda por:** **~R$ 900**
 
----
-
+<!--
 ### Kit de Beleza e Bem-Estar (Lotes)
 ![Photo 1](./photos/P_20260108_002546.jpg)
 
@@ -774,6 +733,8 @@ Preço original: ~ R$ 400+ (Lote)
 
 **À Venda por:** **~R$ 200 (Lote)**
 
+---
+-->
 ---
 
 ### AirPods Pro (3ª Geração) - USB-C
@@ -818,7 +779,6 @@ Preço original: ~ R$ 1.800
 
 ---
 
-
 ### Boné de LED Capellux (Tratamento Capilar)
 ![Photo 1](./photos/P_20260108_104530.jpg)
 ![Photo 2](./photos/P_20260108_104535.jpg)
@@ -837,8 +797,6 @@ Preço original: ~ R$ 1.800
 Preço original: ~ R$ 1.500
 
 **À Venda por:** **~R$ 950**
-
----
 
 <!-- 
 ### Fritadeira Elétrica Electrolux 5L (Edição Rita Lobo)
@@ -861,7 +819,6 @@ Preço original: ~ R$ 650
 
 ---
 
- -->
 ### Estabilizador Gimbal Hohem iSteady M6 (Kit com Sensor AI)
 ![Photo 1](./photos/P_20260108_104833.jpg)
 ![Photo 2](./photos/P_20260108_104838.jpg)
@@ -922,7 +879,6 @@ Preço original: ~ R$ 60
 
 ---
 
-<!-- 
 ### Cubo de LED Infinito (Infinity 4)
 ![Photo 1](./photos/P_20260108_104915.jpg)
 
@@ -940,7 +896,7 @@ Preço original: ~ R$ 180
 **À Venda por:** **~R$ 100**
 
 ---
- -->
+
 ### Barras de LED Rítmicas RGB (Sound Control - Par)
 ![Photo 1](./photos/P_20260108_104957.jpg)
 
@@ -977,6 +933,7 @@ Preço original: ~ R$ 100
 **À Venda por:** **~R$ 60**
 
 ---
+-->
 
 ### Kit de Halteres de Ferro Revestidos (10kg e 15kg)
 ![Photo 1](./photos/P_20260108_105117.jpg)
@@ -1027,13 +984,11 @@ Preço original: R$ 1.299,99
   - Design ultra fino e compacto, fácil de guardar sob móveis ou encostada.
   - Painel digital integrado para monitoramento de tempo, velocidade, distância e calorias.
   - Braço de apoio para maior estabilidade durante o exercício.
-
 Preço original: R$ 2.299,00
 
 **À Venda por:** **~R$ 1.500**
 
----
-
+<!--
 ### Kit de Treino 4 em 1 Domyos (Roda Abdominal e Apoio de Flexão)
 ![Photo 1](./photos/P_20260108_105135.jpg)
 
@@ -1047,7 +1002,6 @@ Preço original: R$ 2.299,00
   - Suporta até 110kg.
 
 **Links:** [Decathlon](https://www.decathlon.com.br/kit-roda-abdominal-e-apoio-de-flexao-4-em-1-cross-training-domyos-8556755/p)
-
 Preço original: ~ R$ 150
 
 **À Venda por:** **~R$ 90**
@@ -1069,6 +1023,9 @@ Preço original: ~ R$ 150
 Preço original: ~ R$ 80
 
 **À Venda por:** **~R$ 50**
+
+---
+-->
 
 ---
 
@@ -1109,8 +1066,6 @@ Preço original: ~ R$ 459
 
 **À Venda por:** **~R$ 230**
 
----
-
 <!-- 
 ### Cinzeiro Telescópio em Metal (Prata)
 ![Photo 1](./photos/P_20260108_105209.jpg)
@@ -1130,7 +1085,7 @@ Preço original: R$ 169,00
 **À Venda por:** **~R$ 100**
 
 ---
- -->
+
 ### Puffs Cubo em Corino (Conjunto com 5 unidades)
 ![Photo 1](./photos/P_20260108_105233.jpg)
 
@@ -1142,7 +1097,6 @@ Preço original: R$ 169,00
   - Design leve e versátil para diversos ambientes.
   - Cores: 2 unidades em Amarelo/Preto e 3 unidades em Vermelho/Preto.
   - Dimensões compactas, ideais para assentos extras ou apoio de pés.
-
 **Links:** [Mercado Livre](https://lista.mercadolivre.com.br/puff-cubo-corino-35x35)
 
 Preço original: ~ R$ 250 (O conjunto)
@@ -1167,8 +1121,8 @@ Preço original: ~ R$ 180
 
 **À Venda por:** **~R$ 110**
 
-<!--
 ---
+
 ### Cadeira Presidente Ergonômica Mesh (Preta)
 ![Photo 1](./photos/P_20260108_105259.jpg)
 
@@ -1184,6 +1138,7 @@ Preço original: ~ R$ 180
 Preço original: ~ R$ 1.200
 
 **À Venda por:** **~R$ 750**
+
 ---
 
 ### Afiador de Facas Profissional 3 em 1
@@ -1203,11 +1158,7 @@ Preço original: ~ R$ 1.200
 Preço original: ~ R$ 40
 
 **À Venda por:** **~R$ 25**
- -->
 
----
-
-<!--
 ### Cafeteira Expresso Philco 20 Bar Inox Red
 ![Photo 1](./photos/P_20260108_105723.jpg)
 
@@ -1227,7 +1178,6 @@ Preço original: ~ R$ 600
 **À Venda por:** **~R$ 380**
 
 ---
--->
 
 ### Difusor e Umidificador de Ambientes (Branco)
 ![Photo 1](./photos/P_20260108_110705.jpg)
@@ -1263,7 +1213,7 @@ Preço original: ~ R$ 45
 Preço original: ~ R$ 600
 
 **À Venda por:** **~R$ 350**
-<!-- 
+
 ---
 
 ### Prateleira Decorativa em Madeira (Suporte Preto)
@@ -1280,6 +1230,7 @@ Preço original: ~ R$ 600
 Preço original: ~ R$ 80
 
 **À Venda por:** **~R$ 50**
+
 ---
 
 ### Tambor Decorativo Ferrari (Customizado)
@@ -1297,7 +1248,8 @@ Preço original: ~ R$ 80
 Preço original: ~ R$ 350
 
 **À Venda por:** **~R$ 220**
- -->
+
+-->
 
 ---
 
@@ -1340,8 +1292,6 @@ Preço original: ~ R$ 450
 
 **À Venda por:** **~R$ 280**
 
----
-
 <!--
 ### Suporte de Notebook Multiuso LH Móveis (Portátil/Dobrável)
 ![Photo 1](./photos/P_20260108_163523.jpg)
@@ -1361,7 +1311,6 @@ Preço original: ~ R$ 70
 **À Venda por:** **~R$ 40**
 
 ---
--->
 
 ### Ring Light Profissional com Suporte para Celular
 ![Photo 1](./photos/P_20260108_120141.jpg)
@@ -1377,7 +1326,7 @@ Preço original: ~ R$ 70
 Preço original: ~ R$ 268
 
 **À Venda por:** **~R$ 160**
-<!-- 
+
 ---
 
 ### Pod Descartável Ignite V50
@@ -1395,7 +1344,8 @@ Preço original: ~ R$ 268
 Preço original: ~ R$ 110
 
 **À Venda por:** **~R$ 60**
- -->
+-->
+
 ---
 
 ### Carregador de Baterias Nitecore Digicharger D4
@@ -1437,6 +1387,8 @@ Preço original: R$ 245,76
 
 **À Venda por:** **~R$ 90**
 
+<!--
+
 ---
 
 ### Projetor de Galáxia Astronauta Urso
@@ -1457,8 +1409,6 @@ Preço original: ~ R$ 120
 
 ---
 
-<!-- 
-
 ### Escultura Self Made Man (30cm)
 ![Photo 1](./photos/P_20260108_151752.jpg)
 
@@ -1474,9 +1424,10 @@ Preço original: ~ R$ 120
 Preço original: ~ R$ 180
 
 **À Venda por:** **~R$ 110**
+-->
 
 ---
- -->
+
 ### Ventilador de Mesa Philco Mega Turbo 40
 ![Photo 1](./photos/P_20260108_151800.jpg)
 
@@ -1516,8 +1467,6 @@ Preço original: ~ R$ 800
 
 **À Venda por:** **~R$ 500**
 
----
-
 <!--
 ### Espelho Orgânico Diamond (Acabamento em Couro)
 ![Photo 1](./photos/P_20260108_151924.jpg)
@@ -1537,9 +1486,7 @@ Preço original: ~ R$ 80
 **À Venda por:** **~R$ 50**
 
 ---
--->
 
-<!--
 ### Espelho Orgânico Grande (Fim de Corredor)
 ![Photo 1](./photos/P_20260108_152019.jpg)
 
@@ -1556,7 +1503,6 @@ Preço original: ~ R$ 215
 **À Venda por:** **~R$ 130**
 
 ---
--->
 
 ### Jogo de Dardos
 ![Photo 1](./photos/P_20260108_152045.jpg)
@@ -1587,6 +1533,10 @@ Preço original: ~ R$ 215
 
 ---
 
+-->
+
+---
+
 ### Miniaturas de Navios de Cruzeiro MSC (Seaview & Preziosa)
 ![Photo 1](./photos/P_20260108_152100.jpg)
 ![Photo 2](./photos/P_20260108_152107.jpg)
@@ -1600,8 +1550,6 @@ Preço original: ~ R$ 215
   - Peças decorativas ideais para entusiastas de viagens e modelismo.
 
 **À Venda por:** **~R$ 50 (Cada)**
-
----
 
 <!-- 
 ### Cadeira Eames DSW Rosa
@@ -1623,6 +1571,7 @@ Preço original: ~ R$ 180
 ---
  -->
 
+<!--
 ### Mochila de Lona e Couro Vintage
 ![Photo 1](./photos/P_20260108_152317.jpg)
 
@@ -1635,7 +1584,8 @@ Preço original: ~ R$ 180
   - Estilo versátil para uso diário, viagens ou estudos.
 
 **À Venda por:** **~R$ 75**
-
+---
+-->
 
 <!-- ---
 
@@ -1652,8 +1602,6 @@ Preço original: ~ R$ 180
 **À Venda por:** **~R$ 60**
  -->
 
----
-
 <!--
 ### Secador de Cabelo Compacto (Vermelho)
 ![Photo 2](./photos/P_20260108_152345.jpg)
@@ -1669,6 +1617,7 @@ Preço original: ~ R$ 180
 
 ---
 -->
+---
 
 ### Coleção de Bonés (Nacional/Senna, Superman, BSB City)
 ![Photo 3](./photos/P_20260108_152412.jpg)
@@ -1700,7 +1649,7 @@ Preço original: ~ R$ 180
 
 **À Venda por:** **~R$ 100**
 
----
+<!--
 
 ### Guarda-chuva Automático Fazzoletti (Preto)
 ![Photo 1](./photos/P_20260108_152156.jpg)
@@ -1736,7 +1685,6 @@ Preço original: ~ R$ 120
 
 **À Venda por:** **~R$ 70**
 
----
 
 ### Máscara de Beleza LED de 7 cores
 ![Photo 1](./photos/P_20260108_162553.jpg)
@@ -1756,7 +1704,6 @@ Preço original: ~ R$ 140
 
 ---
 
-<!-- 
 ### Kit de Ventosaterapia Zenai Pro Series
 ![Photo 1](./photos/P_20260108_162615.jpg)
 
@@ -1775,7 +1722,7 @@ Preço original: R$ 189,90
 
 **À Venda por:** **~R$ 120**
 
---- -->
+---
 
 ### Máquina de Terapia Digital TENS/EMS
 ![Photo 1](./photos/P_20260108_162558.jpg)
@@ -1791,6 +1738,8 @@ Preço original: R$ 189,90
 Preço original: ~ R$ 60
 
 **À Venda por:** **~R$ 35**
+
+-->
 
 ---
 
@@ -1811,8 +1760,6 @@ Preço original: R$ 391,38
 
 **À Venda por:** **~R$ 250**
 
----
-
 <!--
 ### Xiaomi Mi Box (TV Box 4K)
 ![Photo 1](./photos/P_20260108_181614.jpg)
@@ -1830,9 +1777,7 @@ Preço original: ~ R$ 350
 **À Venda por:** **~R$ 220**
 
 ---
--->
 
-<!--
 ### Régua de Energia com USB (3 Tomadas + 3 USB)
 ![Photo 1](./photos/P_20260108_181715.jpg)
 
@@ -1865,6 +1810,46 @@ Preço original: R$ 69,99
 Preço original: ~ R$ 30
 
 **À Venda por:** **~R$ 20**
+
+---
+
+### Fun-Tech Lab 1:64 Windsible Desktop Wind Tunnel
+![Photo 1](./photos/P_20260106_144132.jpg)
+
+**Modelo:** `Windsible`
+**Estado:** Excelente
+
+#### Destaques:
+  - Túnel de vento de mesa para miniaturas 1:64 (Hot Wheels, etc).
+  - Sistema de fumaça para visualização aerodinâmica.
+  - Controle de velocidade do vento e iluminação.
+  - Peça de exibição única para colecionadores.
+
+**Links:** [Site do Fabricante](https://fun-tech-lab.com/)
+
+Preço original: ~ R$ 1.400 (Importado, US$ 239)
+
+**À Venda por:** **~R$ 900**
+
+---
+
+### Runsible - Dinamômetro para Miniaturas 1:64
+![Photo 1](./photos/P_20260106_144155.jpg)
+
+**Modelo:** `Runsible 64`
+**Estado:** Excelente
+
+#### Destaques:
+  - Rolling road (esteira) para miniaturas escala 1:64 (Hot Wheels, Matchbox).
+  - Controle de velocidade rotativo e função start-stop.
+  - Base ajustável para diferentes entre-eixos (30mm+).
+  - Alimentação via USB-C, ideal para exibir carros "em movimento".
+
+**Links:** [Site do Fabricante](https://fun-tech-lab.com/)
+
+Preço original: ~ R$ 400 (Importado)
+
+**À Venda por:** **~R$ 250**
 
 ---
 

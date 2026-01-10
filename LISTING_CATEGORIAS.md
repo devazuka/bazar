@@ -22,7 +22,6 @@
 - XP-Pen Wireless Shortcut Remote (Atalhos) (tags: #atalhos #bluetooth #criacao #tablet #dial)
 
 ## Foto e Video
-- Estabilizador Gimbal Hohem iSteady M6 (Kit com Sensor AI) (tags: #gimbal #smartphone #video #estabilizacao #ai)
 - Tela de Monitor Selfie Vlog SmallRig (tags: #monitor #selfie #vlog #smallrig #camera)
 
 ## Iluminacao e Setup
@@ -31,7 +30,6 @@
 ## Casa e Cozinha
 - Tábua de Corte DOMEZ (Dupla Face) (tags: #tabua #cozinha #corte #duravel #gourmet)
 - Garrafa Filtro Portátil Stone Water (tags: #garrafa #filtro #portatil #agua #stonewater)
-- Garrafa Térmica Pavia 2.5L Unitermi (tags: #garrafa #termica #unitermi #pavia #bebidas)
 - Garrafa Térmica NRMEI 5L (tags: #garrafa #termica #bebidas #isotermica #nrmei)
 - Ventilador de Mesa Philco Mega Turbo 40 (tags: #ventilador #philco #verao #casa #mesa)
 
@@ -44,11 +42,7 @@
 
 ## Saude e Beleza
 - Escova Elétrica Oral-B iO Series 9 (Preta) (tags: #beleza #saude #higiene #escova #io)
-- Auxiliar de Sono Dreamate D6 TENS (tags: #sono #tens #saude #relaxamento #usb)
 - Boné de LED Capellux (Tratamento Capilar) (tags: #capilar #led #fototerapia #beleza #tratamento)
-- Kit de Beleza e Bem-Estar (Lotes) (tags: #skincare #bemestar #oleos #aromaterapia #kit)
-- Máquina de Terapia Digital TENS/EMS (tags: #tens #ems #terapia #saude #relaxamento)
-- Caneta Jato de Plasma (Removedor de Manchas e Verrugas) (tags: #beleza #saude #tratamento #plasma #estetica)
 
 ## Esportes e Fitness
 - Kit de Halteres de Ferro Revestidos (10kg e 15kg) (tags: #halteres #musculacao #treino #forca #homegym)
@@ -61,7 +55,7 @@
 - Miniaturas de Navios de Cruzeiro MSC (Seaview & Preziosa) (tags: #miniatura #colecionavel #navio #msc #cruzeiro)
 
 ## Instrumentos e Medicao
-- Balança Digital de Alta Precisão Bolida (tags: #balanca #precisao #0_01g #medicao #compacta)
+- Balança Digital de Alta Precisão (tags: #balanca #precisao #0_01g #medicao #compacta)
 - Termômetro e Higrômetro Digital Compacto (tags: #termometro #higrometro #medicao #digital #compacto)
 
 ## Acessorios Mobile e Energia

@@ -131,6 +131,31 @@ p, ul, pre, iframe {
   padding: 12px 18px;
 }
 
+blockquote {
+  margin: 18px 0 26px;
+  padding: 14px 18px;
+  background: linear-gradient(135deg, rgba(27, 94, 90, 0.08), rgba(27, 94, 90, 0.02));
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 12px;
+  font-family: var(--sans);
+  color: var(--text);
+  box-shadow: 0 8px 20px rgba(17, 20, 24, 0.08);
+}
+
+blockquote p {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+  font-size: 1.05rem;
+}
+
+blockquote strong {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
 .back-to-index {
   border-bottom: none;
   font-size: 1.1rem;
