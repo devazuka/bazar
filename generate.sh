@@ -70,68 +70,68 @@ done < "$tmp_map"
 
 unmatched=()
 in_category=0
-echo "<section class=\"index\">" >> "$tmp_fragment"
-echo "<h2 id=\"index\">Index</h2>" >> "$tmp_fragment"
-while IFS= read -r line; do
-  if [[ "$line" =~ ^##\  ]]; then
-    if (( in_category )); then
-      echo "</ul>" >> "$tmp_fragment"
-    fi
-    category="${line#\#\# }"
-    echo "<h3>${category}</h3>" >> "$tmp_fragment"
-    echo "<ul>" >> "$tmp_fragment"
-    in_category=1
-    continue
-  fi
-
-  if [[ "$line" =~ ^-\  ]]; then
-    item="${line#- }"
-    item="${item%% (tags:*}"
-    norm_item="$(normalize "$item")"
-    best_idx=-1
-    best_score=0
-    for i in "${!titles[@]}"; do
-      norm_title="${norm_titles[$i]}"
-      score=0
-      if [[ "$norm_title" == *"$norm_item"* ]] || [[ "$norm_item" == *"$norm_title"* ]]; then
-        score=${#norm_item}
-      else
-        for word in $norm_item; do
-          if (( ${#word} > 3 )) && [[ "$norm_title" == *"$word"* ]]; then
-            score=$((score + ${#word}))
-          fi
-        done
-      fi
-      if (( score > best_score )); then
-        best_score=$score
-        best_idx=$i
-      fi
-    done
-
-    if (( best_idx >= 0 )); then
-      id="${ids[$best_idx]}"
-      price="${prices[$best_idx]}"
-      matched_ids["$id"]=1
-      if [[ -n "$price" ]]; then
-        echo "<li><a href=\"#${id}\">${item}</a> — ${price}</li>" >> "$tmp_fragment"
-      else
-        echo "<li><a href=\"#${id}\">${item}</a></li>" >> "$tmp_fragment"
-      fi
-    else
-      is_sold=0
-      for sold_norm in "${sold_norm_titles[@]}"; do
-        if [[ "$sold_norm" == *"$norm_item"* ]] || [[ "$norm_item" == *"$sold_norm"* ]]; then
-          is_sold=1
-          break
-        fi
-      done
-      if (( is_sold )); then
-        continue
-      fi
-      unmatched+=("$item")
-    fi
-  fi
-done < LISTING_CATEGORIAS.md
+# echo "<section class=\"index\">" >> "$tmp_fragment"
+# echo "<h2 id=\"index\">Index</h2>" >> "$tmp_fragment"
+# while IFS= read -r line; do
+#   if [[ "$line" =~ ^##\  ]]; then
+#     if (( in_category )); then
+#       echo "</ul>" >> "$tmp_fragment"
+#     fi
+#     category="${line#\#\# }"
+#     echo "<h3>${category}</h3>" >> "$tmp_fragment"
+#     echo "<ul>" >> "$tmp_fragment"
+#     in_category=1
+#     continue
+#   fi
+# 
+#   if [[ "$line" =~ ^-\  ]]; then
+#     item="${line#- }"
+#     item="${item%% (tags:*}"
+#     norm_item="$(normalize "$item")"
+#     best_idx=-1
+#     best_score=0
+#     for i in "${!titles[@]}"; do
+#       norm_title="${norm_titles[$i]}"
+#       score=0
+#       if [[ "$norm_title" == *"$norm_item"* ]] || [[ "$norm_item" == *"$norm_title"* ]]; then
+#         score=${#norm_item}
+#       else
+#         for word in $norm_item; do
+#           if (( ${#word} > 3 )) && [[ "$norm_title" == *"$word"* ]]; then
+#             score=$((score + ${#word}))
+#           fi
+#         done
+#       fi
+#       if (( score > best_score )); then
+#         best_score=$score
+#         best_idx=$i
+#       fi
+#     done
+# 
+#     if (( best_idx >= 0 )); then
+#       id="${ids[$best_idx]}"
+#       price="${prices[$best_idx]}"
+#       matched_ids["$id"]=1
+#       if [[ -n "$price" ]]; then
+#         echo "<li><a href=\"#${id}\">${item}</a> — ${price}</li>" >> "$tmp_fragment"
+#       else
+#         echo "<li><a href=\"#${id}\">${item}</a></li>" >> "$tmp_fragment"
+#       fi
+#     else
+#       is_sold=0
+#       for sold_norm in "${sold_norm_titles[@]}"; do
+#         if [[ "$sold_norm" == *"$norm_item"* ]] || [[ "$norm_item" == *"$sold_norm"* ]]; then
+#           is_sold=1
+#           break
+#         fi
+#       done
+#       if (( is_sold )); then
+#         continue
+#       fi
+#       unmatched+=("$item")
+#     fi
+#   fi
+# done < LISTING_CATEGORIAS.md
 
 if (( in_category )); then
   echo "</ul>" >> "$tmp_fragment"

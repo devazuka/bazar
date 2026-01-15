@@ -1,8 +1,4 @@
 
-## Ultimo dia (das 9h30 ate 12h30)
-
-> **Todos os preços são negociáveis !**
-
 ---
 
 ### Teclado Mecânico Retrô Yunzii QL75 (Estilo Máquina de Escrever)
@@ -44,10 +40,12 @@ Preço original: ~ R$ 850
 
 Preço original: ~ R$ 1.500
 
-**À Venda por:** **~R$ 1.000**
+**À Venda por:** **~R$ 900**
 
 <!--
+
 ---
+
 ### Patinete Elétrico Polares T10pro (800W)
 ![Photo 1](./photos/P_20260106_144044.jpg)
 
@@ -87,7 +85,6 @@ Preço original: R$ 3.509,98
 Preço original: ~ R$ 550
 
 **À Venda por:** **~R$ 300**
--->
 
 ---
 
@@ -109,7 +106,6 @@ Preço original: ~ R$ 280
 
 **À Venda por:** **~R$ 160**
 
-<!--
 ---
 
 ### Compressor de Ar Portátil Baseus Energy Source
@@ -148,7 +144,6 @@ Preço original: ~ R$ 300 (Importado)
 
 **À Venda por:** **~R$ 180**
 
--->
 ---
 
 ### Balança Digital de Alta Precisão
@@ -208,7 +203,8 @@ Preço original: ~ R$ 650
 
 **À Venda por:** **~R$ 400**
 
-<!--
+---
+
 ### Escudo Capitão América (Réplica Colecionável)
 ![Photo 5](./photos/P_20260106_162302.jpg)
 ![Photo 6](./photos/P_20260106_162316.jpg)
@@ -227,9 +223,7 @@ Preço original: ~ R$ 800
 **À Venda por:** **~R$ 500**
 
 ---
--->
 
-<!--
 ### Lava e Seca Samsung WD11A EcoBubble 11kg (Inox Look)
 ![Photo 1](./photos/P_20260107_112731.jpg)
 ![Photo 2](./photos/P_20260107_112736.jpg)
@@ -271,6 +265,7 @@ Preço original: R$ 2.048,76
 **À Venda por:** **~R$ 1.400**
 
 -->
+
 ---
 
 ### Smart TV Portátil LG StanbyME 27"
@@ -291,7 +286,9 @@ Preço original: R$ 2.048,76
 
 Preço original: ~ R$ 6.800
 
-**À Venda por:** **~R$ 4.200**
+**À Venda por:** **~R$ 3.800**
+
+<!--
 
 ---
 
@@ -314,7 +311,9 @@ Preço original: R$ 90,00
 
 **À Venda por:** **~R$ 70**
 
-<!-- ### Balança Digital Profissional Modus Pro-50
+---
+
+### Balança Digital Profissional Modus Pro-50
 ![Photo 1](./photos/P_20260107_171837.jpg)
 
 **Modelo:** `Pro-50`
@@ -405,9 +404,7 @@ Preço original: R$ 115,00
 **À Venda por:** **~R$ 80**
 
 ---
--->
 
-<!--
 ### Fragmentadora de Papel Aurora AS600S
 ![Photo 1](./photos/P_20260108_104511.jpg)
 
@@ -443,6 +440,7 @@ Preço original: ~ R$ 250
 **À Venda por:** **~R$ 140**
 
 -->
+
 ---
 
 ### XP-Pen Wireless Shortcut Remote (Atalhos)
@@ -461,9 +459,11 @@ Preço original: ~ R$ 250
 
 Preço original: ~ R$ 300 (Importado)
 
-**À Venda por:** **~R$ 180**
+**À Venda por:** **~R$ 120**
 
 <!--
+
+---
 
 ### Kindle Oasis (E-reader Premium)
 ![Photo 2](./photos/P_20260108_002836.jpg)
@@ -483,7 +483,6 @@ Preço original: ~ R$ 1.300
 
 **À Venda por:** **~R$ 850**
 
--->
 ---
 
 ### Coleção de Relógios (Curren, ChilliBeans, etc)
@@ -498,6 +497,7 @@ Preço original: ~ R$ 1.300
   - Venda do lote ou unidades individuais.
 
 **À Venda por:** **A Combinar**
+-->
 
 ---
 
@@ -517,7 +517,7 @@ Preço original: ~ R$ 1.300
 
 Preço original: R$ 1.519,30
 
-**À Venda por:** **~R$ 1.100**
+**À Venda por:** **~R$ 900**
 
 ---
 
@@ -556,9 +556,12 @@ Preço original: ~ R$ 1.000
 
 Preço original: R$ 6.590,00
 
-**À Venda por:** **~R$ 4.500**
+**À Venda por:** **~R$ 2.900**
 
 <!--
+
+---
+
 ### Apple Watch Ultra 2 (GPS + Cellular)
 ![Photo 1](./photos/P_20260108_005209.jpg)
 
@@ -577,8 +580,8 @@ Preço original: R$ 6.999,00
 
 **À Venda por:** **~R$ 4.800**
 
----
 -->
+
 ---
 
 ### iMac 24" M3 (Azul) + Hub USB (Combo)
@@ -600,6 +603,8 @@ Preço original: ~ R$ 13.500+ (Com acessórios)
 
 **À Venda por:** **~R$ 9.000**
 
+<!--
+
 ---
 
 ### iMac 21.5 (Modelo 2017)
@@ -620,7 +625,6 @@ Preço original: ~ R$ 16.000 (Na época)
 
 **À Venda por:** **~R$ 2.900**
 
-<!--
 ### iPhone 17 Pro Max
 ![Photo 2](./photos/P_20260108_010353.jpg)
 
@@ -675,6 +679,7 @@ Preço original: ~ R$ 150
 **À Venda por:** **~R$ 80**
 
 -->
+
 ---
 
 ### Apple AirTags (Kit com 3)
@@ -691,9 +696,9 @@ Preço original: ~ R$ 150
 
 **Links:** [Site do Fabricante](https://www.apple.com/br/airtag/) | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-5095556640)
 
-Preço original: ~ R$ 375 (cada) / ~ R$ 1.100 (os 3)
+Preço original: ~ R$ 369 (cada) / ~ R$ 1.100 (os 3)
 
-**À Venda por:** **~R$ 750**
+**À Venda por:** **~R$ 200**
 
 ---
 
@@ -713,7 +718,7 @@ Preço original: ~ R$ 375 (cada) / ~ R$ 1.100 (os 3)
 
 Preço original: R$ 1.278,90
 
-**À Venda por:** **~R$ 900**
+**À Venda por:** **~R$ 600**
 
 <!--
 ### Kit de Beleza e Bem-Estar (Lotes)
@@ -733,8 +738,8 @@ Preço original: ~ R$ 400+ (Lote)
 
 **À Venda por:** **~R$ 200 (Lote)**
 
----
 -->
+
 ---
 
 ### AirPods Pro (3ª Geração) - USB-C
@@ -755,7 +760,7 @@ Preço original: ~ R$ 400+ (Lote)
 
 Preço original: ~ R$ 2.599
 
-**À Venda por:** **~R$ 1.900**
+**À Venda por:** **~R$ 1.750**
 
 ---
 
@@ -775,7 +780,7 @@ Preço original: ~ R$ 2.599
 
 Preço original: ~ R$ 1.800
 
-**À Venda por:** **~R$ 1.200**
+**À Venda por:** **~R$ 980**
 
 ---
 
@@ -798,7 +803,8 @@ Preço original: ~ R$ 1.500
 
 **À Venda por:** **~R$ 950**
 
-<!-- 
+<!--
+
 ### Fritadeira Elétrica Electrolux 5L (Edição Rita Lobo)
 ![Photo 1](./photos/P_20260108_104549.jpg)
 ![Photo 3](./photos/P_20260108_104815.jpg)
@@ -933,7 +939,6 @@ Preço original: ~ R$ 100
 **À Venda por:** **~R$ 60**
 
 ---
--->
 
 ### Kit de Halteres de Ferro Revestidos (10kg e 15kg)
 ![Photo 1](./photos/P_20260108_105117.jpg)
@@ -988,7 +993,6 @@ Preço original: R$ 2.299,00
 
 **À Venda por:** **~R$ 1.500**
 
-<!--
 ### Kit de Treino 4 em 1 Domyos (Roda Abdominal e Apoio de Flexão)
 ![Photo 1](./photos/P_20260108_105135.jpg)
 
@@ -1023,9 +1027,6 @@ Preço original: ~ R$ 150
 Preço original: ~ R$ 80
 
 **À Venda por:** **~R$ 50**
-
----
--->
 
 ---
 
@@ -1066,7 +1067,6 @@ Preço original: ~ R$ 459
 
 **À Venda por:** **~R$ 230**
 
-<!-- 
 ### Cinzeiro Telescópio em Metal (Prata)
 ![Photo 1](./photos/P_20260108_105209.jpg)
 ![Photo 2](./photos/P_20260108_105213.jpg)
@@ -1249,8 +1249,6 @@ Preço original: ~ R$ 350
 
 **À Venda por:** **~R$ 220**
 
--->
-
 ---
 
 ### PlayStation 5 Slim (Edição Digital) + 2 Jogos + Controle Extra + Dock
@@ -1292,7 +1290,6 @@ Preço original: ~ R$ 450
 
 **À Venda por:** **~R$ 280**
 
-<!--
 ### Suporte de Notebook Multiuso LH Móveis (Portátil/Dobrável)
 ![Photo 1](./photos/P_20260108_163523.jpg)
 ![Photo 2](./photos/P_20260108_163555.jpg)
@@ -1344,7 +1341,6 @@ Preço original: ~ R$ 268
 Preço original: ~ R$ 110
 
 **À Venda por:** **~R$ 60**
--->
 
 ---
 
@@ -1387,8 +1383,6 @@ Preço original: R$ 245,76
 
 **À Venda por:** **~R$ 90**
 
-<!--
-
 ---
 
 ### Projetor de Galáxia Astronauta Urso
@@ -1424,7 +1418,6 @@ Preço original: ~ R$ 120
 Preço original: ~ R$ 180
 
 **À Venda por:** **~R$ 110**
--->
 
 ---
 
@@ -1467,7 +1460,6 @@ Preço original: ~ R$ 800
 
 **À Venda por:** **~R$ 500**
 
-<!--
 ### Espelho Orgânico Diamond (Acabamento em Couro)
 ![Photo 1](./photos/P_20260108_151924.jpg)
 ![Photo 2](./photos/P_20260108_151932.jpg)
@@ -1533,10 +1525,6 @@ Preço original: ~ R$ 215
 
 ---
 
--->
-
----
-
 ### Miniaturas de Navios de Cruzeiro MSC (Seaview & Preziosa)
 ![Photo 1](./photos/P_20260108_152100.jpg)
 ![Photo 2](./photos/P_20260108_152107.jpg)
@@ -1551,7 +1539,6 @@ Preço original: ~ R$ 215
 
 **À Venda por:** **~R$ 50 (Cada)**
 
-<!-- 
 ### Cadeira Eames DSW Rosa
 ![Photo 1](./photos/P_20260108_152311.jpg)
 
@@ -1569,9 +1556,7 @@ Preço original: ~ R$ 180
 **À Venda por:** **~R$ 110**
 
 ---
- -->
 
-<!--
 ### Mochila de Lona e Couro Vintage
 ![Photo 1](./photos/P_20260108_152317.jpg)
 
@@ -1584,10 +1569,8 @@ Preço original: ~ R$ 180
   - Estilo versátil para uso diário, viagens ou estudos.
 
 **À Venda por:** **~R$ 75**
----
--->
 
-<!-- ---
+---
 
 ### Placa Decorativa Rústica (Música, Risos, Tempo, Sonhos, Amor)
 ![Photo 1](./photos/P_20260108_152323.jpg)
@@ -1600,9 +1583,7 @@ Preço original: ~ R$ 180
   - Peça única para decorar varandas, salas ou jardins.
 
 **À Venda por:** **~R$ 60**
- -->
 
-<!--
 ### Secador de Cabelo Compacto (Vermelho)
 ![Photo 2](./photos/P_20260108_152345.jpg)
 
@@ -1615,8 +1596,6 @@ Preço original: ~ R$ 180
 
 **À Venda por:** **~R$ 40**
 
----
--->
 ---
 
 ### Coleção de Bonés (Nacional/Senna, Superman, BSB City)
@@ -1648,8 +1627,6 @@ Preço original: ~ R$ 180
   - (Necessário trocar as lentes para sua graduação).
 
 **À Venda por:** **~R$ 100**
-
-<!--
 
 ### Guarda-chuva Automático Fazzoletti (Preto)
 ![Photo 1](./photos/P_20260108_152156.jpg)
@@ -1739,8 +1716,6 @@ Preço original: ~ R$ 60
 
 **À Venda por:** **~R$ 35**
 
--->
-
 ---
 
 ### Tela de Monitor Selfie Vlog SmallRig
@@ -1760,7 +1735,6 @@ Preço original: R$ 391,38
 
 **À Venda por:** **~R$ 250**
 
-<!--
 ### Xiaomi Mi Box (TV Box 4K)
 ![Photo 1](./photos/P_20260108_181614.jpg)
 
@@ -1794,7 +1768,6 @@ Preço original: R$ 69,99
 **À Venda por:** **~R$ 45**
 
 ---
--->
 
 ### Termômetro e Higrômetro Digital Compacto
 ![Photo 1](./photos/P_20260108_181532.jpg)
@@ -1810,6 +1783,8 @@ Preço original: R$ 69,99
 Preço original: ~ R$ 30
 
 **À Venda por:** **~R$ 20**
+
+-->
 
 ---
 
@@ -1859,6 +1834,8 @@ Além dos itens listados aqui, temos uma **coleção enorme de livros** (princip
 
 Se você estiver procurando por algo específico ou quiser vir dar uma olhada no acervo completo, entre em contato. Há muito mais para descobrir!
 
+<!--
+
 #### Localização para Retirada
 
 **Edifício Porto Seguro**
@@ -1872,7 +1849,6 @@ CEP: 71015-095
 
 ---
 
-
 <p style="text-align: center; margin-top: 40px; background: transparent; border: none; font-style: italic; color: var(--muted); width: 100%;">
   Obrigado por apoiar nossa família neste momento.
 </p>
@@ -1882,3 +1858,5 @@ CEP: 71015-095
     <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
   </svg>
 </div>
+
+-->
